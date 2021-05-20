@@ -1,0 +1,2853 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Mobile" Key="{A6C8BDEE-6440-431B-9C3D-F984EC413DF4}">
+				<TypeInfo Item0="{255AC7FB-E403-4DAD-ADF0-DAA8CAD4F375}" />
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Mobile" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="Device" Key="{3F7FA6A8-7166-4544-AF38-386BC71769F0}">
+						<TypeInfo Item0="{BD7C0EED-A580-48D9-9BDC-346FDF8BF967}" />
+						<Properties>
+							<Property Name="OSType">
+								<Value Value="Android" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="ProcessFroniusSolarweb" Key="{AD27EED3-4D12-441E-8BAE-A52FC02EA372}">
+								<TypeInfo Item0="{EA02C441-21C7-42FC-8A3A-C1BC858B9D02}" />
+								<Properties>
+									<Property Name="ProcessName">
+										<Value Value="com.fronius.solarweb" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="Layout_NO_ID" Key="{8ACA9CB6-9A56-41CF-B5C4-684012614F7A}">
+										<Image FileName="1267904642" Left="0" Top="0" Right="1080" Bottom="2076" />
+										<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Layout" />
+											</Property>
+											<Property Name="ViewID">
+												<Value Value="NO_ID" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="Layout_action_bar_root" Key="{C74A6272-C6C3-42DB-84DD-DCF4431C17FB}">
+												<Image FileName="1267904642" Left="0" Top="72" Right="1080" Bottom="2076" />
+												<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="Layout" />
+													</Property>
+													<Property Name="ViewID">
+														<Value Value="action_bar_root" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="LayoutContent" Key="{B4054828-3024-4097-8AD8-0D8A58482275}">
+														<Image FileName="1267904642" Left="0" Top="72" Right="1080" Bottom="2076" />
+														<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="Layout" />
+															</Property>
+															<Property Name="ViewID">
+																<Value Value="content" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="ViewMain" Key="{5ECCF095-4E2E-44F9-9612-7144F8E8406F}">
+																<Image FileName="1267904642" Left="0" Top="72" Right="1080" Bottom="2076" />
+																<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="View" />
+																	</Property>
+																	<Property Name="ViewID">
+																		<Value Value="NO_ID" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="ViewConstraintLayoutHomepage" Key="{FB468669-7E9B-49E1-ADF1-57A7A5CECB5F}">
+																		<Image FileName="1267904642" Left="0" Top="72" Right="1080" Bottom="2076" />
+																		<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value Value="View" />
+																			</Property>
+																			<Property Name="ViewID">
+																				<Value Value="constraintLayout" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="ButtonLogin" Key="{EC41CCF4-FBED-43EE-9CFB-C07C4C36A23D}">
+																				<Image FileName="1267904642" Left="24" Top="1740" Right="1056" Bottom="1884" />
+																				<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="Button" />
+																					</Property>
+																					<Property Name="ViewID">
+																						<Value Value="action_login" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																			<Child Name="ButtonSignup" Key="{7AA0CF85-C8FE-4F82-A94F-97BCF385CD2E}">
+																				<Image FileName="-1790715997" Left="24" Top="1908" Right="1056" Bottom="2052" />
+																				<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="Button" />
+																					</Property>
+																					<Property Name="ViewID">
+																						<Value Value="action_sign_up" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																			<Child Name="TextViewFRONIUSSOLARWEBHomepage" Key="{34679C8C-E10D-412B-820C-1BEC2E029E81}">
+																				<Image FileName="1599831735" Left="24" Top="264" Right="1056" Bottom="352" />
+																				<TypeInfo Item0="{B0E26003-2EEB-4519-A6DD-1E086DF2572E}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="TextView" />
+																					</Property>
+																					<Property Name="ViewID">
+																						<Value Value="out_login_title" />
+																					</Property>
+																					<Property Name="ControlText">
+																						<Value Value="FRONIUS SOLAR.WEB" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																		</Children>
+																	</Child>
+																	<Child Name="ViewWidgetlayout" Key="{462D0BD5-71A9-4207-A12D-6605D2E88C93}">
+																		<Image FileName="1237116304" Left="0" Top="72" Right="1080" Bottom="2076" />
+																		<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value Value="View" />
+																			</Property>
+																			<Property Name="ViewID">
+																				<Value Value="NO_ID" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="ToolbarTop" Key="{B9554537-4F49-4415-955A-3465B1BFE4B0}">
+																				<Image FileName="1237116304" Left="0" Top="72" Right="1080" Bottom="240" />
+																				<TypeInfo Item0="{2FE311BD-8878-4FCE-840B-A83CD6678CC2}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="Toolbar" />
+																					</Property>
+																					<Property Name="ViewID">
+																						<Value Value="toolbar" />
+																					</Property>
+																					<Property Name="JavaFullClassName">
+																						<Value Value="androidx.appcompat.widget.Toolbar" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="ImageButtonTop" Key="{A7C58B3E-4592-42BB-AF33-B9826AF5F386}">
+																						<Image FileName="1237116304" Left="0" Top="72" Right="168" Bottom="240" />
+																						<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="ImageButton" />
+																							</Property>
+																							<Property Name="ViewID">
+																								<Value Value="NO_ID" />
+																							</Property>
+																							<Property Name="JavaFullClassName">
+																								<Value Value="androidx.appcompat.widget.AppCompatImageButton" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																					<Child Name="TextViewPvAnlage" Key="{78925DF1-A45A-4EF9-8E44-0F8410BAC5F6}">
+																						<Image FileName="28097904" Left="216" Top="119" Right="621" Bottom="192" />
+																						<TypeInfo Item0="{B0E26003-2EEB-4519-A6DD-1E086DF2572E}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="TextView" />
+																							</Property>
+																							<Property Name="ViewID">
+																								<Value Value="action_system_selection" />
+																							</Property>
+																							<Property Name="JavaFullClassName">
+																								<Value Value="com.google.android.material.textview.MaterialTextView" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																					<Child Name="BarSettings" Key="{3A37F0B1-8CB4-430C-B5C5-B9F26A0AD82B}">
+																						<Image FileName="-1485062293" Left="912" Top="72" Right="1080" Bottom="240" />
+																						<TypeInfo Item0="{96C4376B-5810-428F-817A-043769E8CAB2}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="Bar" />
+																							</Property>
+																							<Property Name="ViewID">
+																								<Value Value="NO_ID" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="TextViewSettings" Key="{AAF806C6-E334-4D75-A90D-2A74DE03E1D1}">
+																								<Image FileName="-1485062293" Left="912" Top="84" Right="1080" Bottom="228" />
+																								<TypeInfo Item0="{B0E26003-2EEB-4519-A6DD-1E086DF2572E}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="TextView" />
+																									</Property>
+																									<Property Name="ViewID">
+																										<Value Value="action_settings" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																			<Child Name="ViewContent" Key="{1F90C7F0-627F-4B27-9B41-F049572BCB2D}">
+																				<Image FileName="1119407481" Left="0" Top="240" Right="1080" Bottom="1908" />
+																				<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="View" />
+																					</Property>
+																					<Property Name="ViewID">
+																						<Value Value="NO_ID" />
+																					</Property>
+																					<Property Name="JavaFullClassName">
+																						<Value Value="androidx.constraintlayout.widget.ConstraintLayout" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="Viewcontainerinfo" Key="{82049025-95B7-4C93-89FF-8A8339D7723A}">
+																						<Image FileName="1119407481" Left="0" Top="457" Right="1080" Bottom="1908" />
+																						<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="View" />
+																							</Property>
+																							<Property Name="ViewID">
+																								<Value Value="container_info" />
+																							</Property>
+																							<Property Name="JavaFullClassName">
+																								<Value Value="androidx.constraintlayout.widget.ConstraintLayout" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="ViewCurrentflow" Key="{6B676322-5A9F-405F-9C15-425A5E6567A8}">
+																								<Image FileName="-673303134" Left="0" Top="457" Right="1080" Bottom="818" />
+																								<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="View" />
+																									</Property>
+																									<Property Name="ViewID">
+																										<Value Value="container_current_flow" />
+																									</Property>
+																									<Property Name="JavaFullClassName">
+																										<Value Value="androidx.constraintlayout.widget.ConstraintLayout" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="ViewProduction" Key="{3C1AF30C-2BA4-47BB-8289-85A7D4C5CEB4}">
+																										<Image FileName="-673303134" Left="0" Top="505" Right="1080" Bottom="770" />
+																										<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="View" />
+																											</Property>
+																											<Property Name="ViewID">
+																												<Value Value="container_production" />
+																											</Property>
+																											<Property Name="JavaFullClassName">
+																												<Value Value="androidx.constraintlayout.widget.ConstraintLayout" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="ImageViewiconProduction" Key="{10CE7F3E-289E-44EB-A1C5-A1A00C5BB449}">
+																												<Image FileName="-673303134" Left="0" Top="505" Right="1080" Bottom="673" />
+																												<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value Value="ImageView" />
+																													</Property>
+																													<Property Name="ViewID">
+																														<Value Value="icon_current" />
+																													</Property>
+																													<Property Name="JavaFullClassName">
+																														<Value Value="androidx.appcompat.widget.AppCompatImageView" />
+																													</Property>
+																												</Properties>
+																											</Child>
+																											<Child Name="TextViewProductionUnit" Key="{E0E264AB-A941-4CCF-8035-88F2501BC155}">
+																												<Image FileName="1875945613" Left="571" Top="716" Right="622" Bottom="765" />
+																												<TypeInfo Item0="{B0E26003-2EEB-4519-A6DD-1E086DF2572E}" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value Value="TextView" />
+																													</Property>
+																													<Property Name="ViewID">
+																														<Value Value="label_production_unit" />
+																													</Property>
+																													<Property Name="JavaFullClassName">
+																														<Value Value="com.google.android.material.textview.MaterialTextView" />
+																													</Property>
+																												</Properties>
+																											</Child>
+																											<Child Name="TextViewProductionValue" Key="{1F5717C8-D960-405F-B928-A5982677A836}">
+																												<Image FileName="2092303346" Left="459" Top="697" Right="565" Bottom="770" />
+																												<TypeInfo Item0="{B0E26003-2EEB-4519-A6DD-1E086DF2572E}" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value Value="TextView" />
+																													</Property>
+																													<Property Name="ViewID">
+																														<Value Value="out_production" />
+																													</Property>
+																												</Properties>
+																											</Child>
+																										</Children>
+																									</Child>
+																									<Child Name="ViewConsumption" Key="{BEA99A49-3D54-4CFC-AD95-02B38D69CF75}">
+																										<Image FileName="-600346547" Left="360" Top="505" Right="720" Bottom="770" />
+																										<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="View" />
+																											</Property>
+																											<Property Name="ViewID">
+																												<Value Value="container_consumption" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="TextViewConsumptionUnit" Key="{06AB2D60-34DF-4137-88E1-C49DA8AFB54A}">
+																												<Image FileName="-600346547" Left="586" Top="716" Right="637" Bottom="765" />
+																												<TypeInfo Item0="{B0E26003-2EEB-4519-A6DD-1E086DF2572E}" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value Value="TextView" />
+																													</Property>
+																													<Property Name="ViewID">
+																														<Value Value="label_consumption_unit" />
+																													</Property>
+																												</Properties>
+																											</Child>
+																											<Child Name="TextViewConsumptionValue" Key="{50587F07-957A-4543-9ACC-B680176E9C39}">
+																												<Image FileName="-1622153859" Left="459" Top="697" Right="565" Bottom="770" />
+																												<TypeInfo Item0="{B0E26003-2EEB-4519-A6DD-1E086DF2572E}" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value Value="TextView" />
+																													</Property>
+																													<Property Name="ViewID">
+																														<Value Value="out_consumption" />
+																													</Property>
+																												</Properties>
+																											</Child>
+																											<Child Name="ImageViewiconConsumpion" Key="{ED41CB9D-13F1-4F8C-8C51-F41E8B15CF85}">
+																												<Image FileName="-1615130217" Left="360" Top="505" Right="720" Bottom="673" />
+																												<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value Value="ImageView" />
+																													</Property>
+																													<Property Name="ViewID">
+																														<Value Value="icon_consumption" />
+																													</Property>
+																												</Properties>
+																											</Child>
+																										</Children>
+																									</Child>
+																									<Child Name="ViewGrid" Key="{1CDC6ED7-6A1D-4B09-B476-E373AF2C5E1D}">
+																										<Image FileName="-1235685625" Left="720" Top="505" Right="1080" Bottom="770" />
+																										<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="View" />
+																											</Property>
+																											<Property Name="ViewID">
+																												<Value Value="container_grid" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="TextViewGridvalue" Key="{74699E18-75E4-4F47-A34B-693FB8850D25}">
+																												<Image FileName="-1235685625" Left="819" Top="697" Right="925" Bottom="770" />
+																												<TypeInfo Item0="{B0E26003-2EEB-4519-A6DD-1E086DF2572E}" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value Value="TextView" />
+																													</Property>
+																													<Property Name="ViewID">
+																														<Value Value="out_grid" />
+																													</Property>
+																												</Properties>
+																											</Child>
+																											<Child Name="TextViewGridUnit" Key="{4A5A9825-1CC1-4317-8500-F0D22D84BE31}">
+																												<Image FileName="-1922406986" Left="931" Top="716" Right="982" Bottom="765" />
+																												<TypeInfo Item0="{B0E26003-2EEB-4519-A6DD-1E086DF2572E}" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value Value="TextView" />
+																													</Property>
+																													<Property Name="ViewID">
+																														<Value Value="label_grid_unit" />
+																													</Property>
+																												</Properties>
+																											</Child>
+																											<Child Name="ImageViewiconGrid" Key="{48005EC2-30ED-4081-825B-3BEEEDB45F6B}">
+																												<Image FileName="2124084490" Left="720" Top="505" Right="1080" Bottom="673" />
+																												<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value Value="ImageView" />
+																													</Property>
+																													<Property Name="ViewID">
+																														<Value Value="icon_grid" />
+																													</Property>
+																												</Properties>
+																											</Child>
+																										</Children>
+																									</Child>
+																									<Child Name="ViewBatteryStorage" Key="{CB1E3C6C-DF45-4E7C-A657-CDCAC7B45721}">
+																										<Image FileName="1865213309" Left="540" Top="505" Right="810" Bottom="770" />
+																										<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="View" />
+																											</Property>
+																											<Property Name="ViewID">
+																												<Value Value="container_storage" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="TextViewOutBatteryvalue" Key="{D979B502-6815-497D-B61A-BD5E986210C2}">
+																												<Image FileName="1865213309" Left="594" Top="697" Right="700" Bottom="770" />
+																												<TypeInfo Item0="{B0E26003-2EEB-4519-A6DD-1E086DF2572E}" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value Value="TextView" />
+																													</Property>
+																													<Property Name="ViewID">
+																														<Value Value="out_battery" />
+																													</Property>
+																												</Properties>
+																											</Child>
+																											<Child Name="TextViewBatteryUnit" Key="{14A89500-7961-48ED-AC77-4CFE9E87EC83}">
+																												<Image FileName="-156756331" Left="706" Top="716" Right="757" Bottom="765" />
+																												<TypeInfo Item0="{B0E26003-2EEB-4519-A6DD-1E086DF2572E}" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value Value="TextView" />
+																													</Property>
+																													<Property Name="ViewID">
+																														<Value Value="label_battery_unit" />
+																													</Property>
+																												</Properties>
+																											</Child>
+																											<Child Name="ViewImagebattery" Key="{AFEE0340-5CC4-4609-A64C-9F60EE735456}">
+																												<Image FileName="-82243181" Left="540" Top="505" Right="810" Bottom="673" />
+																												<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value Value="View" />
+																													</Property>
+																													<Property Name="ViewID">
+																														<Value Value="NO_ID" />
+																													</Property>
+																												</Properties>
+																												<Children>
+																													<Child Name="TextViewBatteryImagePercent" Key="{ADB2197B-0F54-4B8E-BA9D-B3C706E87C52}">
+																														<Image FileName="-82243181" Left="658" Top="596" Right="692" Bottom="631" />
+																														<TypeInfo Item0="{B0E26003-2EEB-4519-A6DD-1E086DF2572E}" />
+																														<Properties>
+																															<Property Name="ObjectType">
+																																<Value Value="TextView" />
+																															</Property>
+																															<Property Name="ViewID">
+																																<Value Value="out_battery_percent" />
+																															</Property>
+																														</Properties>
+																													</Child>
+																												</Children>
+																											</Child>
+																										</Children>
+																									</Child>
+																								</Children>
+																							</Child>
+																							<Child Name="ViewRateSufficiency" Key="{A58365A0-4308-4441-BE76-F1D6CA03740E}">
+																								<Image FileName="2131635868" Left="0" Top="1154" Right="1080" Bottom="1317" />
+																								<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="View" />
+																									</Property>
+																									<Property Name="ViewID">
+																										<Value Value="container_rate_sufficiency" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="TextViewSufficiencyRate" Key="{1BB35E32-5FB7-4EA6-9CE7-5BDA168E9239}">
+																										<Image FileName="1946320031" Left="925" Top="1202" Right="1032" Bottom="1267" />
+																										<TypeInfo Item0="{B0E26003-2EEB-4519-A6DD-1E086DF2572E}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="TextView" />
+																											</Property>
+																											<Property Name="ViewID">
+																												<Value Value="out_rate_sufficiency" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																									<Child Name="ImageViewiconRateSufficiency" Key="{2D2F07AC-2323-4BA2-9F8D-DCAA92167993}">
+																										<Image FileName="240709873" Left="48" Top="1202" Right="165" Bottom="1276" />
+																										<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="ImageView" />
+																											</Property>
+																											<Property Name="ViewID">
+																												<Value Value="icon_rate_sufficiency" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																									<Child Name="TextViewSelfsufficiency" Key="{BFD88408-6EFB-4BAA-9BAD-6414CEB15B52}">
+																										<Image FileName="1858482262" Left="165" Top="1202" Right="925" Bottom="1267" />
+																										<TypeInfo Item0="{B0E26003-2EEB-4519-A6DD-1E086DF2572E}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="TextView" />
+																											</Property>
+																											<Property Name="ViewID">
+																												<Value Value="label_rate_sufficiency" />
+																											</Property>
+																											<Property Name="ControlText">
+																												<Value Value="Self-sufficiency" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																								</Children>
+																							</Child>
+																							<Child Name="ViewRateConsumption" Key="{15797183-8B84-47D3-A932-E5D7BB1D6016}">
+																								<Image FileName="-290940803" Left="0" Top="1317" Right="1080" Bottom="1480" />
+																								<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="View" />
+																									</Property>
+																									<Property Name="ViewID">
+																										<Value Value="container_rate_consumption" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="TextViewConsumptionRate" Key="{FD1AE237-DEAB-4339-BDBD-F3FF7C32267A}">
+																										<Image FileName="-1582477699" Left="896" Top="1365" Right="1032" Bottom="1430" />
+																										<TypeInfo Item0="{B0E26003-2EEB-4519-A6DD-1E086DF2572E}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="TextView" />
+																											</Property>
+																											<Property Name="ViewID">
+																												<Value Value="out_rate_consumption" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																									<Child Name="ImageViewiconRateConsumption" Key="{F1EA5F2A-7D82-4677-9632-3ABFA5F1267E}">
+																										<Image FileName="-196670476" Left="48" Top="1365" Right="165" Bottom="1439" />
+																										<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="ImageView" />
+																											</Property>
+																											<Property Name="ViewID">
+																												<Value Value="icon_rate_consumption" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																									<Child Name="TextViewSelfconsumption" Key="{2C0D3D60-78B1-4838-A910-31D4A4203172}">
+																										<Image FileName="-1924916013" Left="165" Top="1365" Right="896" Bottom="1430" />
+																										<TypeInfo Item0="{B0E26003-2EEB-4519-A6DD-1E086DF2572E}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="TextView" />
+																											</Property>
+																											<Property Name="ViewID">
+																												<Value Value="label_rate_consumption" />
+																											</Property>
+																											<Property Name="ControlText">
+																												<Value Value="Self-consumption" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																								</Children>
+																							</Child>
+																						</Children>
+																					</Child>
+																					<Child Name="TextViewOutTemperature" Key="{BA1B769A-B70D-4245-88FE-D64D6C107434}">
+																						<Image FileName="-294134668" Left="719" Top="240" Right="943" Bottom="447" />
+																						<TypeInfo Item0="{B0E26003-2EEB-4519-A6DD-1E086DF2572E}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="TextView" />
+																							</Property>
+																							<Property Name="ViewID">
+																								<Value Value="out_temperature" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																					<Child Name="ImageViewinfo" Key="{2FBB5DBD-F7CE-4365-BA53-3033356A4461}">
+																						<Image FileName="-1020939694" Left="496" Top="277" Right="640" Bottom="421" />
+																						<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="ImageView" />
+																							</Property>
+																							<Property Name="ViewID">
+																								<Value Value="action_info" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																					<Child Name="ViewOffline" Key="{B28D7C24-D9EB-49AC-8369-3285DA0E4127}">
+																						<Image FileName="1946562650" Left="0" Top="457" Right="1080" Bottom="1908" />
+																						<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="View" />
+																							</Property>
+																							<Property Name="ViewID">
+																								<Value Value="view_offline" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="TextViewoutTitle" Key="{4224E465-288D-4F08-AA35-8AEBC9FA73B2}">
+																								<Image FileName="1946562650" Left="72" Top="796" Right="1008" Bottom="932" />
+																								<TypeInfo Item0="{B0E26003-2EEB-4519-A6DD-1E086DF2572E}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="TextView" />
+																									</Property>
+																									<Property Name="ViewID">
+																										<Value Value="out_title" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																							<Child Name="ImageViewiconOffline" Key="{BD785D55-D86C-4824-A00A-141B044890C8}">
+																								<Image FileName="1171625126" Left="0" Top="505" Right="1080" Bottom="676" />
+																								<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="ImageView" />
+																									</Property>
+																									<Property Name="ViewID">
+																										<Value Value="icon_offline_current" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																						</Children>
+																					</Child>
+																					<Child Name="ScrollViewProfile" Key="{BE5B1200-3FD3-4067-B3DB-0CF468D70027}">
+																						<Image FileName="-1908937728" Left="0" Top="517" Right="1080" Bottom="1908" />
+																						<TypeInfo Item0="{5E927E70-981B-49E6-8DEB-29C99E5D6DF9}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="ScrollView" />
+																							</Property>
+																							<Property Name="ViewID">
+																								<Value Value="container_scroll" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="ViewLogout" Key="{9207367D-9371-4747-B610-ED9D1066A580}">
+																								<Image FileName="-1908937728" Left="0" Top="1621" Right="1080" Bottom="1765" />
+																								<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="View" />
+																									</Property>
+																									<Property Name="ViewID">
+																										<Value Value="action_logout" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="View_root" Key="{610AE204-EE09-429E-8532-6B1153CAC581}">
+																										<Image FileName="-759150355" Left="0" Top="1621" Right="1080" Bottom="1765" />
+																										<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="View" />
+																											</Property>
+																											<Property Name="ViewID">
+																												<Value Value="root" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																								</Children>
+																							</Child>
+																							<Child Name="ViewSolarwebWebview" Key="{4E152478-E34C-43A1-99C1-42E8B416D936}">
+																								<Image FileName="-1564084668" Left="0" Top="517" Right="1080" Bottom="661" />
+																								<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="View" />
+																									</Property>
+																									<Property Name="ViewID">
+																										<Value Value="action_solarweb" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																							<Child Name="ViewProductregistrationAndWarranty" Key="{8E4ED173-C2A4-4DBD-BB4F-380B06163DE7}">
+																								<Image FileName="-1580766409" Left="0" Top="661" Right="1080" Bottom="805" />
+																								<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="View" />
+																									</Property>
+																									<Property Name="ViewID">
+																										<Value Value="action_product_register" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																							<Child Name="ViewFAQs" Key="{2063BD90-EDE7-41A0-81B8-B2E0F1D03215}">
+																								<Image FileName="1671591388" Left="0" Top="805" Right="1080" Bottom="949" />
+																								<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="View" />
+																									</Property>
+																									<Property Name="ViewID">
+																										<Value Value="action_support" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																							<Child Name="ViewImprint" Key="{7624C23B-6F3D-4744-9CAE-C268D7A67B83}">
+																								<Image FileName="1547605077" Left="0" Top="997" Right="1080" Bottom="1141" />
+																								<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="View" />
+																									</Property>
+																									<Property Name="ViewID">
+																										<Value Value="action_imprint" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																							<Child Name="ViewDataPrivacyStatement" Key="{AAC8A653-66B8-47DC-B7B5-D1A5901B95FF}">
+																								<Image FileName="-2074703478" Left="0" Top="1141" Right="1080" Bottom="1285" />
+																								<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="View" />
+																									</Property>
+																									<Property Name="ViewID">
+																										<Value Value="action_data_privacy" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																							<Child Name="ViewTermsandConditions" Key="{3BB079DF-D3A1-4A92-A8A1-A5B3239A3AFD}">
+																								<Image FileName="1931429421" Left="0" Top="1285" Right="1080" Bottom="1429" />
+																								<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="View" />
+																									</Property>
+																									<Property Name="ViewID">
+																										<Value Value="action_terms_conditions" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																							<Child Name="ViewSettings" Key="{96D48F06-9DA5-402A-9CD9-9CA47E4F5F42}">
+																								<Image FileName="1974499332" Left="0" Top="1477" Right="1080" Bottom="1621" />
+																								<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="View" />
+																									</Property>
+																									<Property Name="ViewID">
+																										<Value Value="action_settings" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="View_root" Key="{1E7F9598-7A80-49A0-894C-A5067DED3C84}">
+																										<Image FileName="1932086398" Left="0" Top="1477" Right="1080" Bottom="1621" />
+																										<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="View" />
+																											</Property>
+																											<Property Name="ViewID">
+																												<Value Value="root" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																								</Children>
+																							</Child>
+																						</Children>
+																					</Child>
+																					<Child Name="ImageViewProfileFroniuslogo" Key="{5B80D8E9-6009-4636-AB0D-93B329B13320}">
+																						<Image FileName="-1611755171" Left="348" Top="144" Right="732" Bottom="243" />
+																						<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="ImageView" />
+																							</Property>
+																							<Property Name="ViewID">
+																								<Value Value="image_logo" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																					<Child Name="TextViewProfileSolarwebheader" Key="{705B962C-CFD6-4FDB-A1EA-1A2A84E71207}">
+																						<Image FileName="-1723748492" Left="430" Top="291" Right="651" Bottom="356" />
+																						<TypeInfo Item0="{B0E26003-2EEB-4519-A6DD-1E086DF2572E}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="TextView" />
+																							</Property>
+																							<Property Name="ViewID">
+																								<Value Value="out_header_title" />
+																							</Property>
+																							<Property Name="ControlText">
+																								<Value Value="Solar.web" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																					<Child Name="TextViewprofileSolarwebVersion" Key="{3AA97BF7-66C6-4363-BD17-60160EEA1D9E}">
+																						<Image FileName="1121717188" Left="406" Top="380" Right="675" Bottom="445" />
+																						<TypeInfo Item0="{B0E26003-2EEB-4519-A6DD-1E086DF2572E}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="TextView" />
+																							</Property>
+																							<Property Name="ViewID">
+																								<Value Value="out_header_version" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																					<Child Name="ViewHistoryChart" Key="{921DEEC7-4D1C-49A8-8285-18C3EB24CF3C}">
+																						<Image FileName="-695785139" Left="0" Top="432" Right="1080" Bottom="1779" />
+																						<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="View" />
+																							</Property>
+																							<Property Name="ViewID">
+																								<Value Value="container_chart" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="ViewHistory" Key="{DC0913B4-E1E1-4F08-913A-4ADFCB4B948A}">
+																								<Image FileName="-695785139" Left="0" Top="432" Right="1080" Bottom="1779" />
+																								<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="View" />
+																									</Property>
+																									<Property Name="ViewID">
+																										<Value Value="root_view" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="TextViewHistory" Key="{EB06F8D5-E29A-4C3C-9938-1D774EAED046}">
+																										<Image FileName="-695785139" Left="0" Top="432" Right="234" Bottom="601" />
+																										<TypeInfo Item0="{B0E26003-2EEB-4519-A6DD-1E086DF2572E}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="TextView" />
+																											</Property>
+																											<Property Name="ViewID">
+																												<Value Value="label_title" />
+																											</Property>
+																											<Property Name="ControlText">
+																												<Value Value="History" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																									<Child Name="ImageViewInfo" Key="{CD6202D1-7508-4E3C-941F-B149850A4A77}">
+																										<Image FileName="-419910317" Left="234" Top="445" Right="378" Bottom="589" />
+																										<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="ImageView" />
+																											</Property>
+																											<Property Name="ViewID">
+																												<Value Value="action_info" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																									<Child Name="ViewConsumption" Key="{79970B97-28DC-43A7-9030-A0D6806C9511}">
+																										<Image FileName="895009793" Left="0" Top="711" Right="1080" Bottom="772" />
+																										<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="View" />
+																											</Property>
+																											<Property Name="ViewID">
+																												<Value Value="container_consumption" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="TextViewTotalconsumption" Key="{7F9269BB-9D16-408F-B0F7-BEC7B042A8A6}">
+																												<Image FileName="895009793" Left="96" Top="723" Right="397" Bottom="772" />
+																												<TypeInfo Item0="{B0E26003-2EEB-4519-A6DD-1E086DF2572E}" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value Value="TextView" />
+																													</Property>
+																													<Property Name="ViewID">
+																														<Value Value="label_consumption" />
+																													</Property>
+																													<Property Name="ControlText">
+																														<Value Value="Total consumption" />
+																													</Property>
+																												</Properties>
+																											</Child>
+																											<Child Name="TextViewConsumptionValue" Key="{5D1B1A0B-1CB0-4455-817F-47ED47A7B4C4}">
+																												<Image FileName="1656370566" Left="864" Top="723" Right="1032" Bottom="772" />
+																												<TypeInfo Item0="{B0E26003-2EEB-4519-A6DD-1E086DF2572E}" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value Value="TextView" />
+																													</Property>
+																													<Property Name="ViewID">
+																														<Value Value="out_consumption" />
+																													</Property>
+																												</Properties>
+																											</Child>
+																										</Children>
+																									</Child>
+																									<Child Name="ViewStateofCharge" Key="{BBB889F6-E894-4D49-8E24-D4D4903518E6}">
+																										<Image FileName="1710968660" Left="0" Top="772" Right="1080" Bottom="833" />
+																										<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="View" />
+																											</Property>
+																											<Property Name="ViewID">
+																												<Value Value="container_soc" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="TextViewStateofcharge" Key="{893AF217-3742-4C82-BEA1-6CFAB745B1AE}">
+																												<Image FileName="1710968660" Left="96" Top="784" Right="344" Bottom="833" />
+																												<TypeInfo Item0="{B0E26003-2EEB-4519-A6DD-1E086DF2572E}" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value Value="TextView" />
+																													</Property>
+																													<Property Name="ViewID">
+																														<Value Value="label_soc" />
+																													</Property>
+																													<Property Name="ControlText">
+																														<Value Value="State of charge" />
+																													</Property>
+																												</Properties>
+																											</Child>
+																											<Child Name="TextViewStateofchargeValue" Key="{756EBF7B-FD0C-4DED-B021-87FA649BAAEA}">
+																												<Image FileName="1225265711" Left="957" Top="784" Right="1032" Bottom="833" />
+																												<TypeInfo Item0="{B0E26003-2EEB-4519-A6DD-1E086DF2572E}" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value Value="TextView" />
+																													</Property>
+																													<Property Name="ViewID">
+																														<Value Value="out_soc" />
+																													</Property>
+																												</Properties>
+																											</Child>
+																										</Children>
+																									</Child>
+																									<Child Name="ViewSelfconsumption" Key="{C962A794-4BD4-4A25-BDD9-1273E4A62932}">
+																										<Image FileName="1023790298" Left="0" Top="650" Right="1080" Bottom="711" />
+																										<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="View" />
+																											</Property>
+																											<Property Name="ViewID">
+																												<Value Value="container_self_consumption" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="TextViewSelfconsumption" Key="{A212EF3E-A9FC-443B-B606-E61C44BCA4B2}">
+																												<Image FileName="1023790298" Left="96" Top="662" Right="383" Bottom="711" />
+																												<TypeInfo Item0="{B0E26003-2EEB-4519-A6DD-1E086DF2572E}" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value Value="TextView" />
+																													</Property>
+																													<Property Name="ViewID">
+																														<Value Value="label_self_consumption" />
+																													</Property>
+																													<Property Name="ControlText">
+																														<Value Value="Self-consumption" />
+																													</Property>
+																												</Properties>
+																											</Child>
+																											<Child Name="TextViewSelfconsumptionValue" Key="{4E7344E1-499E-425A-BE30-7775523566B2}">
+																												<Image FileName="1379528797" Left="884" Top="662" Right="1032" Bottom="711" />
+																												<TypeInfo Item0="{B0E26003-2EEB-4519-A6DD-1E086DF2572E}" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value Value="TextView" />
+																													</Property>
+																													<Property Name="ViewID">
+																														<Value Value="out_self_consumption" />
+																													</Property>
+																												</Properties>
+																											</Child>
+																										</Children>
+																									</Child>
+																									<Child Name="TextViewPVProduction" Key="{9BC6124B-FEDF-424D-9D8A-EE339AB754BB}">
+																										<Image FileName="-1321568144" Left="96" Top="601" Right="328" Bottom="650" />
+																										<TypeInfo Item0="{B0E26003-2EEB-4519-A6DD-1E086DF2572E}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="TextView" />
+																											</Property>
+																											<Property Name="ViewID">
+																												<Value Value="label_production" />
+																											</Property>
+																											<Property Name="ControlText">
+																												<Value Value="PV Production" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																									<Child Name="TextViewPvProductionvalue" Key="{6FDB19A3-8BC7-4091-BC58-C321EE86BF92}">
+																										<Image FileName="-1707418361" Left="884" Top="601" Right="1032" Bottom="650" />
+																										<TypeInfo Item0="{B0E26003-2EEB-4519-A6DD-1E086DF2572E}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="TextView" />
+																											</Property>
+																											<Property Name="ViewID">
+																												<Value Value="out_production" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																									<Child Name="ViewChart" Key="{DADD64B4-9547-4E1E-87BA-733911D9EDB1}">
+																										<Image FileName="951958338" Left="36" Top="929" Right="1044" Bottom="1779" />
+																										<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="View" />
+																											</Property>
+																											<Property Name="ViewID">
+																												<Value Value="chart" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																									<Child Name="TextViewLabelUnit" Key="{87CF33BE-EFB1-4DC1-9A95-EE794438F42F}">
+																										<Image FileName="-769993111" Left="48" Top="807" Right="132" Bottom="856" />
+																										<TypeInfo Item0="{B0E26003-2EEB-4519-A6DD-1E086DF2572E}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="TextView" />
+																											</Property>
+																											<Property Name="ViewID">
+																												<Value Value="label_unit" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																								</Children>
+																							</Child>
+																						</Children>
+																					</Child>
+																					<Child Name="TextViewHistorydateMonthorYear" Key="{8A6CE444-201E-4DFE-AD6E-2CB86CFD7F7B}">
+																						<Image FileName="-913203636" Left="413" Top="1779" Right="668" Bottom="1908" />
+																						<TypeInfo Item0="{B0E26003-2EEB-4519-A6DD-1E086DF2572E}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="TextView" />
+																							</Property>
+																							<Property Name="ViewID">
+																								<Value Value="out_date" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																					<Child Name="ImageButtonHistorydateback" Key="{3DAF60C4-69C8-40EA-800F-FA6FD8944AC9}">
+																						<Image FileName="1714885143" Left="0" Top="1784" Right="129" Bottom="1904" />
+																						<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="ImageButton" />
+																							</Property>
+																							<Property Name="ViewID">
+																								<Value Value="action_back" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																					<Child Name="ImageButtonHistorydatenext" Key="{C9480B4E-AD78-4580-8691-A48AA006196C}">
+																						<Image FileName="1279177765" Left="951" Top="1784" Right="1080" Bottom="1904" />
+																						<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="ImageButton" />
+																							</Property>
+																							<Property Name="ViewID">
+																								<Value Value="action_next" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																					<Child Name="TabHostHistorytabs" Key="{FA350CDB-2BE7-49B0-BC0C-0B52699DA768}">
+																						<Image FileName="237155787" Left="48" Top="288" Right="1032" Bottom="432" />
+																						<TypeInfo Item0="{3DA795EA-D13F-40BD-93A0-6323070BF49C}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="TabHost" />
+																							</Property>
+																							<Property Name="ViewID">
+																								<Value Value="tabs" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="LayoutHistorytabs" Key="{59C32308-22D9-4DF0-B75F-C44E43AF88F5}">
+																								<Image FileName="237155787" Left="48" Top="288" Right="1032" Bottom="432" />
+																								<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="Layout" />
+																									</Property>
+																									<Property Name="ViewID">
+																										<Value Value="NO_ID" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="LayoutYear" Key="{E1C266D2-B1EA-4316-BC89-824E4463CD7B}">
+																										<Image FileName="237155787" Left="540" Top="288" Right="786" Bottom="432" />
+																										<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="Layout" />
+																											</Property>
+																											<Property Name="ViewID">
+																												<Value Value="NO_ID" />
+																											</Property>
+																											<Property Name="Index">
+																												<Value Value="3" Type="0" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																									<Child Name="LayoutDay" Key="{03DEFE44-971E-4BFE-8DBD-7A85B78BF71E}">
+																										<Image FileName="1181815618" Left="48" Top="288" Right="294" Bottom="432" />
+																										<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="Layout" />
+																											</Property>
+																											<Property Name="ViewID">
+																												<Value Value="NO_ID" />
+																											</Property>
+																											<Property Name="Index">
+																												<Value Value="1" Type="0" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																									<Child Name="LayoutMonth" Key="{90FC3ECC-8530-407B-83CD-B2C2B71AB521}">
+																										<Image FileName="910361640" Left="294" Top="288" Right="540" Bottom="432" />
+																										<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="Layout" />
+																											</Property>
+																											<Property Name="ViewID">
+																												<Value Value="NO_ID" />
+																											</Property>
+																											<Property Name="Index">
+																												<Value Value="2" Type="0" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																									<Child Name="LayoutTotal" Key="{81B39CA5-8B7A-4697-8C9C-116AF1E2621D}">
+																										<Image FileName="910361640" Left="786" Top="288" Right="1032" Bottom="432" />
+																										<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="Layout" />
+																											</Property>
+																											<Property Name="ViewID">
+																												<Value Value="NO_ID" />
+																											</Property>
+																											<Property Name="Index">
+																												<Value Value="4" Type="0" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																								</Children>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																			<Child Name="LayoutNavigation" Key="{941CF199-64BD-4E0C-BD72-C878C3CB0365}">
+																				<Image FileName="-2085892766" Left="0" Top="1908" Right="1080" Bottom="2076" />
+																				<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="Layout" />
+																					</Property>
+																					<Property Name="ViewID">
+																						<Value Value="navigation" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="ViewNAvigationMenu" Key="{DBDCB22A-D64B-4F42-94D7-FE9BC1FCD23D}">
+																						<Image FileName="-2085892766" Left="0" Top="1908" Right="1080" Bottom="2076" />
+																						<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="View" />
+																							</Property>
+																							<Property Name="ViewID">
+																								<Value Value="NO_ID" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="LayoutCurrent" Key="{CE39CB4F-B0B2-4C4B-B7D6-406DB2A87037}">
+																								<Image FileName="-2085892766" Left="0" Top="1908" Right="270" Bottom="2076" />
+																								<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="Layout" />
+																									</Property>
+																									<Property Name="ViewID">
+																										<Value Value="action_current" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																							<Child Name="LayoutHistory" Key="{D7242058-F439-422A-93A0-C811046F8FE7}">
+																								<Image FileName="313763875" Left="270" Top="1908" Right="540" Bottom="2076" />
+																								<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="Layout" />
+																									</Property>
+																									<Property Name="ViewID">
+																										<Value Value="action_history" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																							<Child Name="LayoutEarnings" Key="{82E787A5-59F6-4484-81E3-C0F0ADCB3F5C}">
+																								<Image FileName="-469835920" Left="540" Top="1908" Right="810" Bottom="2076" />
+																								<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="Layout" />
+																									</Property>
+																									<Property Name="ViewID">
+																										<Value Value="action_earnings" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																							<Child Name="LayoutSettingsProfile" Key="{2316F68F-01CE-4C9D-BC1B-CE07BD77B9F7}">
+																								<Image FileName="1414072241" Left="810" Top="1908" Right="1080" Bottom="2076" />
+																								<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="Layout" />
+																									</Property>
+																									<Property Name="ViewID">
+																										<Value Value="action_settings" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																			<Child Name="ScrollViewEarnings" Key="{4E46EDB3-626E-4849-BAE4-4336E1887D66}">
+																				<Image FileName="-1199391090" Left="0" Top="240" Right="1080" Bottom="1908" />
+																				<TypeInfo Item0="{5E927E70-981B-49E6-8DEB-29C99E5D6DF9}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="ScrollView" />
+																					</Property>
+																					<Property Name="ViewID">
+																						<Value Value="NO_ID" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="ViewEarnings" Key="{D7005481-80CB-48ED-8355-4A5588E4FA6C}">
+																						<Image FileName="-1199391090" Left="0" Top="240" Right="1080" Bottom="2042" />
+																						<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="View" />
+																							</Property>
+																							<Property Name="ViewID">
+																								<Value Value="NO_ID" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="TextViewEarningsTitle" Key="{F075B883-2EBA-4505-A739-D7E3D3749CAB}">
+																								<Image FileName="1662982718" Left="0" Top="240" Right="273" Bottom="433" />
+																								<TypeInfo Item0="{B0E26003-2EEB-4519-A6DD-1E086DF2572E}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="TextView" />
+																									</Property>
+																									<Property Name="ViewID">
+																										<Value Value="out_earnings_title" />
+																									</Property>
+																									<Property Name="ControlText">
+																										<Value Value="Earnings" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																							<Child Name="ImageViewinfo" Key="{E0FB5987-5549-49E1-9FA8-A90991A35E40}">
+																								<Image FileName="702548196" Left="273" Top="253" Right="417" Bottom="421" />
+																								<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="ImageView" />
+																									</Property>
+																									<Property Name="ViewID">
+																										<Value Value="action_info" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																							<Child Name="ViewToday" Key="{8E5ED270-C461-4BBF-996F-B9A1428B8358}">
+																								<Image FileName="-729386709" Left="48" Top="433" Right="1032" Bottom="577" />
+																								<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="View" />
+																									</Property>
+																									<Property Name="ViewID">
+																										<Value Value="out_today" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="Viewroottoday" Key="{8DFA46D6-8DDA-4AD4-8E8D-D3FA2A1876E4}">
+																										<Image FileName="-729386709" Left="48" Top="433" Right="1032" Bottom="577" />
+																										<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="View" />
+																											</Property>
+																											<Property Name="ViewID">
+																												<Value Value="root" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="TextViewTodayvalue" Key="{A0632765-0CDB-4318-AB5A-2B8B8E784312}">
+																												<Image FileName="-679154600" Left="821" Top="473" Right="1032" Bottom="538" />
+																												<TypeInfo Item0="{B0E26003-2EEB-4519-A6DD-1E086DF2572E}" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value Value="TextView" />
+																													</Property>
+																													<Property Name="ViewID">
+																														<Value Value="out_value" />
+																													</Property>
+																												</Properties>
+																											</Child>
+																										</Children>
+																									</Child>
+																								</Children>
+																							</Child>
+																							<Child Name="ViewCO2savingstotal" Key="{06A2F750-55EC-4FF5-B6CE-9D1868C331F9}">
+																								<Image FileName="-573030538" Left="48" Top="1202" Right="1032" Bottom="1412" />
+																								<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="View" />
+																									</Property>
+																									<Property Name="ViewID">
+																										<Value Value="out_savings_co2" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="ViewTotal" Key="{9978EF0A-73BA-476D-8F90-7EC412034C1F}">
+																										<Image FileName="-573030538" Left="48" Top="1202" Right="1032" Bottom="1412" />
+																										<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="View" />
+																											</Property>
+																											<Property Name="ViewID">
+																												<Value Value="root" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="TextViewUnit" Key="{916A3278-0C85-478A-A622-F13449CA8DF9}">
+																												<Image FileName="-1432958694" Left="243" Top="1193" Right="1032" Bottom="1242" />
+																												<TypeInfo Item0="{B0E26003-2EEB-4519-A6DD-1E086DF2572E}" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value Value="TextView" />
+																													</Property>
+																													<Property Name="ViewID">
+																														<Value Value="out_unit" />
+																													</Property>
+																												</Properties>
+																											</Child>
+																										</Children>
+																									</Child>
+																								</Children>
+																							</Child>
+																							<Child Name="ViewSavingsplane" Key="{424ADAEB-3C1E-49D6-881A-0E432764B1DE}">
+																								<Image FileName="744669079" Left="48" Top="1278" Right="1032" Bottom="1488" />
+																								<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="View" />
+																									</Property>
+																									<Property Name="ViewID">
+																										<Value Value="out_savings_plane" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="Viewplane" Key="{A5D40561-18DD-419F-A69B-6DC1451F09D5}">
+																										<Image FileName="744669079" Left="48" Top="1278" Right="1032" Bottom="1488" />
+																										<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="View" />
+																											</Property>
+																											<Property Name="ViewID">
+																												<Value Value="root" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="TextViewUnit" Key="{45B2E3E1-24DF-40A9-9F6A-2C1312187899}">
+																												<Image FileName="744669079" Left="243" Top="1403" Right="1032" Bottom="1452" />
+																												<TypeInfo Item0="{B0E26003-2EEB-4519-A6DD-1E086DF2572E}" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value Value="TextView" />
+																													</Property>
+																													<Property Name="ViewID">
+																														<Value Value="out_unit" />
+																													</Property>
+																												</Properties>
+																											</Child>
+																										</Children>
+																									</Child>
+																								</Children>
+																							</Child>
+																							<Child Name="ViewSavingsTree" Key="{A44486A6-327F-44E8-85A1-5652A92C3957}">
+																								<Image FileName="464993352" Left="48" Top="1488" Right="1032" Bottom="1698" />
+																								<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="View" />
+																									</Property>
+																									<Property Name="ViewID">
+																										<Value Value="out_savings_tree" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="ViewTree" Key="{C07442A4-B399-40D9-B239-3E68B1A0ECBF}">
+																										<Image FileName="464993352" Left="48" Top="1488" Right="1032" Bottom="1698" />
+																										<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="View" />
+																											</Property>
+																											<Property Name="ViewID">
+																												<Value Value="root" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="TextViewUnit" Key="{FBFE71EA-6128-45B9-A5A0-254454BC3463}">
+																												<Image FileName="464993352" Left="243" Top="1613" Right="1032" Bottom="1662" />
+																												<TypeInfo Item0="{B0E26003-2EEB-4519-A6DD-1E086DF2572E}" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value Value="TextView" />
+																													</Property>
+																													<Property Name="ViewID">
+																														<Value Value="out_unit" />
+																													</Property>
+																												</Properties>
+																											</Child>
+																										</Children>
+																									</Child>
+																								</Children>
+																							</Child>
+																							<Child Name="ViewSavingsCar" Key="{5584E4E7-9165-41CE-A07B-6419DD31715A}">
+																								<Image FileName="8838714" Left="48" Top="1698" Right="1032" Bottom="1908" />
+																								<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="View" />
+																									</Property>
+																									<Property Name="ViewID">
+																										<Value Value="out_savings_car" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="ViewCar" Key="{926C95D9-86C1-4B87-9D71-17D2841CED27}">
+																										<Image FileName="8838714" Left="48" Top="1698" Right="1032" Bottom="1908" />
+																										<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="View" />
+																											</Property>
+																											<Property Name="ViewID">
+																												<Value Value="root" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="TextViewUnit" Key="{9278EA21-B1CF-4F52-B448-C72DE0FAB706}">
+																												<Image FileName="8838714" Left="243" Top="1823" Right="1032" Bottom="1872" />
+																												<TypeInfo Item0="{B0E26003-2EEB-4519-A6DD-1E086DF2572E}" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value Value="TextView" />
+																													</Property>
+																													<Property Name="ViewID">
+																														<Value Value="out_unit" />
+																													</Property>
+																												</Properties>
+																											</Child>
+																										</Children>
+																									</Child>
+																								</Children>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																	<Child Name="LayoutProfileSettings" Key="{0D3B0C29-39E7-42BE-BCAC-6DDB233DD7DC}">
+																		<Image FileName="-897782233" Left="0" Top="72" Right="1080" Bottom="2076" />
+																		<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value Value="Layout" />
+																			</Property>
+																			<Property Name="ViewID">
+																				<Value Value="NO_ID" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="ToolbarSettingsheader" Key="{B3F67E20-DABF-472E-BFA4-2A5F15D2ADF3}">
+																				<Image FileName="-897782233" Left="0" Top="72" Right="1080" Bottom="240" />
+																				<TypeInfo Item0="{2FE311BD-8878-4FCE-840B-A83CD6678CC2}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="Toolbar" />
+																					</Property>
+																					<Property Name="ViewID">
+																						<Value Value="toolbar" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="ImageButtongoback" Key="{603A35FF-5E02-4AEF-AC1F-09D021991F97}">
+																						<Image FileName="-858533874" Left="0" Top="72" Right="168" Bottom="240" />
+																						<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="ImageButton" />
+																							</Property>
+																							<Property Name="ViewID">
+																								<Value Value="NO_ID" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																				</Children>
+																			</Child>
+																			<Child Name="ViewcontainerDarkmode" Key="{E20FBC96-9F6E-42FF-88EE-40BF8E279F2B}">
+																				<Image FileName="391017662" Left="0" Top="240" Right="1080" Bottom="384" />
+																				<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="View" />
+																					</Property>
+																					<Property Name="ViewID">
+																						<Value Value="container_dark" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="SwitchDark" Key="{D5714347-B7F8-42E0-9C2C-D6145D250578}">
+																						<Image FileName="391017662" Left="892" Top="272" Right="1032" Bottom="353" />
+																						<TypeInfo Item0="{AB9DC133-9BA3-453B-A6C4-FC47F10CDD37}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="Switch" />
+																							</Property>
+																							<Property Name="ViewID">
+																								<Value Value="switch_dark" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																				</Children>
+																			</Child>
+																			<Child Name="ViewcontainerAutoDarkMode" Key="{D8819B15-92CE-4B93-A5B8-26BE9DD54210}">
+																				<Image FileName="-145258178" Left="0" Top="384" Right="1080" Bottom="528" />
+																				<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="View" />
+																					</Property>
+																					<Property Name="ViewID">
+																						<Value Value="container_auto" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="SwitchAutoDarkmode" Key="{CBF10A89-E54B-4EE4-B513-A92F3C9AFA23}">
+																						<Image FileName="-145258178" Left="892" Top="416" Right="1032" Bottom="497" />
+																						<TypeInfo Item0="{AB9DC133-9BA3-453B-A6C4-FC47F10CDD37}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="Switch" />
+																							</Property>
+																							<Property Name="ViewID">
+																								<Value Value="switch_auto" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																				</Children>
+																			</Child>
+																			<Child Name="ViewUnits" Key="{ED06E72F-019D-40B4-8934-0DF588A725BC}">
+																				<Image FileName="-1546288424" Left="0" Top="528" Right="1080" Bottom="672" />
+																				<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="View" />
+																					</Property>
+																					<Property Name="ViewID">
+																						<Value Value="action_unit" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="ViewrootUnit" Key="{4F88C227-BB97-4CBA-9048-57429FB7AEF5}">
+																						<Image FileName="-1546288424" Left="0" Top="528" Right="1080" Bottom="672" />
+																						<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="View" />
+																							</Property>
+																							<Property Name="ViewID">
+																								<Value Value="root" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="ImageViewArrow" Key="{6F46399D-DB75-460D-A5AD-7D4200F5E8E7}">
+																								<Image FileName="354410297" Left="984" Top="576" Right="1032" Bottom="624" />
+																								<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="ImageView" />
+																									</Property>
+																									<Property Name="ViewID">
+																										<Value Value="icon_arrow" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																							<Child Name="TextViewUnit" Key="{6CD6D0C4-ED69-495C-908D-753152611646}">
+																								<Image FileName="2083485714" Left="564" Top="568" Right="936" Bottom="633" />
+																								<TypeInfo Item0="{B0E26003-2EEB-4519-A6DD-1E086DF2572E}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="TextView" />
+																									</Property>
+																									<Property Name="ViewID">
+																										<Value Value="out_value" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																	<Child Name="ViewHistoryinfo" Key="{1874D385-5EF4-4A22-9332-AE37047321CA}">
+																		<Image FileName="-1068640426" Left="0" Top="240" Right="1080" Bottom="2076" />
+																		<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value Value="View" />
+																			</Property>
+																			<Property Name="ViewID">
+																				<Value Value="list_info" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="ViewPVProduction" Key="{163B107F-96F3-4377-9FE9-4B2DFF73FA3E}">
+																				<Image FileName="-1068640426" Left="0" Top="240" Right="1080" Bottom="555" />
+																				<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="View" />
+																					</Property>
+																					<Property Name="ViewID">
+																						<Value Value="NO_ID" />
+																					</Property>
+																					<Property Name="Index">
+																						<Value Value="1" Type="0" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="TextViewPVproduction" Key="{240D9F42-E989-4D68-ABB8-67C5ECDF0C57}">
+																						<Image FileName="-1068640426" Left="48" Top="288" Right="1032" Bottom="361" />
+																						<TypeInfo Item0="{B0E26003-2EEB-4519-A6DD-1E086DF2572E}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="TextView" />
+																							</Property>
+																							<Property Name="ViewID">
+																								<Value Value="out_title" />
+																							</Property>
+																							<Property Name="ControlText">
+																								<Value Value="PV production" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																				</Children>
+																			</Child>
+																			<Child Name="ViewSelfConsumption" Key="{72C7D854-2CEB-402A-B00E-59553AA6EA20}">
+																				<Image FileName="84281093" Left="0" Top="567" Right="1080" Bottom="1053" />
+																				<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="View" />
+																					</Property>
+																					<Property Name="ViewID">
+																						<Value Value="NO_ID" />
+																					</Property>
+																					<Property Name="Index">
+																						<Value Value="2" Type="0" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="TextViewSelfconsumption" Key="{48FBBC87-3AA3-49EE-9326-E770CC1A61DB}">
+																						<Image FileName="84281093" Left="48" Top="615" Right="1032" Bottom="688" />
+																						<TypeInfo Item0="{B0E26003-2EEB-4519-A6DD-1E086DF2572E}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="TextView" />
+																							</Property>
+																							<Property Name="ViewID">
+																								<Value Value="out_title" />
+																							</Property>
+																							<Property Name="ControlText">
+																								<Value Value="Self-consumption" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																				</Children>
+																			</Child>
+																			<Child Name="ViewTotalConsumption" Key="{A4E17B09-97E7-47C6-ACC8-6C8A859CE479}">
+																				<Image FileName="1603878248" Left="0" Top="1065" Right="1080" Bottom="1437" />
+																				<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="View" />
+																					</Property>
+																					<Property Name="ViewID">
+																						<Value Value="NO_ID" />
+																					</Property>
+																					<Property Name="Index">
+																						<Value Value="3" Type="0" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="TextViewTotalconsumption" Key="{680A2D39-E388-4660-A1A5-ED548657EE33}">
+																						<Image FileName="1603878248" Left="48" Top="1113" Right="1032" Bottom="1186" />
+																						<TypeInfo Item0="{B0E26003-2EEB-4519-A6DD-1E086DF2572E}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="TextView" />
+																							</Property>
+																							<Property Name="ViewID">
+																								<Value Value="out_title" />
+																							</Property>
+																							<Property Name="ControlText">
+																								<Value Value="Total consumption" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+															<Child Name="ViewLogin" Key="{0266BF94-E52C-4504-9680-5E9AE9922D27}">
+																<Image FileName="1230436907" Left="0" Top="72" Right="1080" Bottom="2076" />
+																<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="View" />
+																	</Property>
+																	<Property Name="ViewID">
+																		<Value Value="coordinator" />
+																	</Property>
+																	<Property Name="JavaFullClassName">
+																		<Value Value="androidx.coordinatorlayout.widget.CoordinatorLayout" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="View_NO_ID" Key="{B84416F9-82A2-47D1-8BC9-9E03B8A38F25}">
+																		<Image FileName="1719676965" Left="0" Top="224" Right="1080" Bottom="2076" />
+																		<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value Value="View" />
+																			</Property>
+																			<Property Name="ViewID">
+																				<Value Value="NO_ID" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="TextViewLogin" Key="{6EBC909B-9CDF-4717-BB5A-EB27975F61F0}">
+																				<Image FileName="1719676965" Left="48" Top="284" Right="299" Bottom="357" />
+																				<TypeInfo Item0="{B0E26003-2EEB-4519-A6DD-1E086DF2572E}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="TextView" />
+																					</Property>
+																					<Property Name="ViewID">
+																						<Value Value="out_title" />
+																					</Property>
+																					<Property Name="JavaFullClassName">
+																						<Value Value="com.google.android.material.textview.MaterialTextView" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																			<Child Name="ViewContainerLogin" Key="{77F2351A-0C4C-4D6E-AF00-056F2149C077}">
+																				<Image FileName="-1138408844" Left="0" Top="416" Right="1080" Bottom="2076" />
+																				<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="View" />
+																					</Property>
+																					<Property Name="ViewID">
+																						<Value Value="container_content" />
+																					</Property>
+																					<Property Name="JavaFullClassName">
+																						<Value Value="androidx.constraintlayout.widget.ConstraintLayout" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="ScrollViewLogin" Key="{D940DBCB-5AC2-485E-A37F-05FB42209070}">
+																						<Image FileName="-1138408844" Left="0" Top="416" Right="1080" Bottom="2076" />
+																						<TypeInfo Item0="{5E927E70-981B-49E6-8DEB-29C99E5D6DF9}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="ScrollView" />
+																							</Property>
+																							<Property Name="ViewID">
+																								<Value Value="NO_ID" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="ViewInput" Key="{56A8AD7C-327C-47F9-8B86-3F880A217718}">
+																								<Image FileName="-1138408844" Left="0" Top="416" Right="1080" Bottom="1426" />
+																								<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="View" />
+																									</Property>
+																									<Property Name="ViewID">
+																										<Value Value="NO_ID" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="LayoutEmail" Key="{01CC0F70-57F3-48FE-A4AA-A2D1FD067055}">
+																										<Image FileName="-1138408844" Left="0" Top="512" Right="1080" Bottom="705" />
+																										<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="Layout" />
+																											</Property>
+																											<Property Name="ViewID">
+																												<Value Value="input_layout_email" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="EditTextEmail" Key="{8094D27B-B066-4833-A1C6-A8BE33FF0C7A}">
+																												<Image FileName="-1138408844" Left="0" Top="512" Right="1080" Bottom="705" />
+																												<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value Value="EditText" />
+																													</Property>
+																													<Property Name="ViewID">
+																														<Value Value="in_email" />
+																													</Property>
+																												</Properties>
+																											</Child>
+																										</Children>
+																									</Child>
+																									<Child Name="LayoutPassword" Key="{3063936B-2515-4F66-B718-DE3B18032E48}">
+																										<Image FileName="270383179" Left="0" Top="705" Right="1080" Bottom="898" />
+																										<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="Layout" />
+																											</Property>
+																											<Property Name="ViewID">
+																												<Value Value="input_layout_password" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="EditTextPassword" Key="{AFC7EED3-B627-4273-9322-74EBBDB3246E}">
+																												<Image FileName="270383179" Left="0" Top="705" Right="1080" Bottom="898" />
+																												<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value Value="EditText" />
+																													</Property>
+																													<Property Name="ViewID">
+																														<Value Value="in_password" />
+																													</Property>
+																												</Properties>
+																											</Child>
+																										</Children>
+																									</Child>
+																									<Child Name="ButtonLogin" Key="{873FB431-4D68-48C5-97BF-E807CCBEE360}">
+																										<Image FileName="787901631" Left="24" Top="1258" Right="1056" Bottom="1402" />
+																										<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="Button" />
+																											</Property>
+																											<Property Name="ViewID">
+																												<Value Value="action_login" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																									<Child Name="ViewContainertermsandconditions" Key="{58096FA4-48B9-418B-A676-2C7B701B2D7F}">
+																										<Image FileName="2029945276" Left="0" Top="1114" Right="1080" Bottom="1258" />
+																										<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="View" />
+																											</Property>
+																											<Property Name="ViewID">
+																												<Value Value="container_terms_and_conditions" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="SwitchAgree" Key="{97FECA80-DD9F-4506-856D-442D0F522577}">
+																												<Image FileName="2029945276" Left="892" Top="1146" Right="1032" Bottom="1227" />
+																												<TypeInfo Item0="{AB9DC133-9BA3-453B-A6C4-FC47F10CDD37}" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value Value="Switch" />
+																													</Property>
+																													<Property Name="ViewID">
+																														<Value Value="switch_agree" />
+																													</Property>
+																												</Properties>
+																											</Child>
+																											<Child Name="TextViewouttermsandconditions" Key="{D777ED82-99AE-4A6D-A78A-C719AF27F613}">
+																												<Image FileName="-1623733203" Left="48" Top="1150" Right="844" Bottom="1215" />
+																												<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value Value="TextView" />
+																													</Property>
+																													<Property Name="ViewID">
+																														<Value Value="out_terms_and_conditions" />
+																													</Property>
+																												</Properties>
+																											</Child>
+																										</Children>
+																									</Child>
+																									<Child Name="ButtonForgotPassword" Key="{53115919-1BE3-418C-8217-0ECBBF4C32B3}">
+																										<Image FileName="8383681" Left="24" Top="922" Right="546" Bottom="1066" />
+																										<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="Button" />
+																											</Property>
+																											<Property Name="ViewID">
+																												<Value Value="action_forgot_password" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																								</Children>
+																							</Child>
+																						</Children>
+																					</Child>
+																					<Child Name="ViewListPvsystem" Key="{4FAFB46A-2FE6-4C16-9C00-99980D2023CD}">
+																						<Image FileName="-463754117" Left="0" Top="632" Right="1080" Bottom="2076" />
+																						<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="View" />
+																							</Property>
+																							<Property Name="ViewID">
+																								<Value Value="list_system" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="ViewFirstPvSystem" Key="{B027BBE5-C0E2-41E7-8C8F-02A9345FF253}">
+																								<Image FileName="-463754117" Left="0" Top="780" Right="1080" Bottom="900" />
+																								<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="View" />
+																									</Property>
+																									<Property Name="ViewID">
+																										<Value Value="root" />
+																									</Property>
+																									<Property Name="Index">
+																										<Value Value="1" Type="0" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="ImageViewicon" Key="{BA85858C-0CD8-4EB3-89E9-B2BFD7A10BDF}">
+																										<Image FileName="1256045950" Left="48" Top="780" Right="216" Bottom="900" />
+																										<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="ImageView" />
+																											</Property>
+																											<Property Name="ViewID">
+																												<Value Value="icon_system" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																									<Child Name="TextViewtitle" Key="{C35E6E2D-4E70-4C56-A973-3C27579289AE}">
+																										<Image FileName="1281647682" Left="216" Top="780" Right="906" Bottom="900" />
+																										<TypeInfo Item0="{B0E26003-2EEB-4519-A6DD-1E086DF2572E}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="TextView" />
+																											</Property>
+																											<Property Name="ViewID">
+																												<Value Value="out_title" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																									<Child Name="ImageViewiconfavourite" Key="{921794F0-C86F-4072-93E7-ADFC52825223}">
+																										<Image FileName="1990403347" Left="906" Top="780" Right="1080" Bottom="900" />
+																										<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="ImageView" />
+																											</Property>
+																											<Property Name="ViewID">
+																												<Value Value="icon_favourite" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																								</Children>
+																							</Child>
+																							<Child Name="ViewSecondPvsystem" Key="{7E5DBC32-5681-4AEC-8E83-5A36B0BE91AC}">
+																								<Image FileName="758536308" Left="0" Top="903" Right="1080" Bottom="1023" />
+																								<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="View" />
+																									</Property>
+																									<Property Name="ViewID">
+																										<Value Value="root" />
+																									</Property>
+																									<Property Name="Index">
+																										<Value Value="2" Type="0" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="ImageViewiconfavourite" Key="{FE9D0EB7-7216-4BBA-9A79-8F7624D194B0}">
+																										<Image FileName="1130061523" Left="906" Top="903" Right="1080" Bottom="1023" />
+																										<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="ImageView" />
+																											</Property>
+																											<Property Name="ViewID">
+																												<Value Value="icon_favourite" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																								</Children>
+																							</Child>
+																							<Child Name="ViewThirdPvsystem" Key="{233175D6-A618-486D-808A-83C29F261928}">
+																								<Image FileName="849191578" Left="0" Top="1026" Right="1080" Bottom="1146" />
+																								<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="View" />
+																									</Property>
+																									<Property Name="ViewID">
+																										<Value Value="root" />
+																									</Property>
+																									<Property Name="Index">
+																										<Value Value="3" Type="0" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																							<Child Name="ViewFourthPvsystem" Key="{89C1C35A-B8F6-40BF-B151-286A1017D817}">
+																								<Image FileName="952300320" Left="0" Top="1149" Right="1080" Bottom="1269" />
+																								<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="View" />
+																									</Property>
+																									<Property Name="ViewID">
+																										<Value Value="root" />
+																									</Property>
+																									<Property Name="Index">
+																										<Value Value="4" Type="0" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="ImageViewiconsystem" Key="{0941374F-6DE6-4063-8E84-E6EC7340F504}">
+																										<Image FileName="-1354988926" Left="48" Top="1149" Right="216" Bottom="1269" />
+																										<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="ImageView" />
+																											</Property>
+																											<Property Name="ViewID">
+																												<Value Value="icon_system" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																								</Children>
+																							</Child>
+																							<Child Name="ViewFifthPvsystem" Key="{6764FACF-8500-4A48-8DCC-C2FF7AE65420}">
+																								<Image FileName="1630681195" Left="0" Top="1272" Right="1080" Bottom="1392" />
+																								<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="View" />
+																									</Property>
+																									<Property Name="ViewID">
+																										<Value Value="root" />
+																									</Property>
+																									<Property Name="Index">
+																										<Value Value="5" Type="0" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="ImageViewiconsystem" Key="{B49894DE-7F5D-4182-B9DA-575BA0E62087}">
+																										<Image FileName="104077148" Left="48" Top="1272" Right="216" Bottom="1392" />
+																										<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="ImageView" />
+																											</Property>
+																											<Property Name="ViewID">
+																												<Value Value="icon_system" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																									<Child Name="TextViewTitle" Key="{FD5C389E-2D2C-4619-96A7-C4E450647191}">
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="TextView" />
+																											</Property>
+																											<Property Name="ViewID">
+																												<Value Value="out_title" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																								</Children>
+																							</Child>
+																							<Child Name="ViewSixthPvsystem" Key="{A22A1767-EC1C-4196-BE3D-A42B046792F2}">
+																								<Image FileName="-1270876035" Left="0" Top="1395" Right="1080" Bottom="1515" />
+																								<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="View" />
+																									</Property>
+																									<Property Name="ViewID">
+																										<Value Value="root" />
+																									</Property>
+																									<Property Name="Index">
+																										<Value Value="6" Type="0" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																							<Child Name="ViewFavorites" Key="{CAF9B9E8-C5EA-45D3-ADA4-8F9DF26806D1}">
+																								<Image FileName="1322021486" Left="0" Top="632" Right="1080" Bottom="777" />
+																								<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="View" />
+																									</Property>
+																									<Property Name="ViewID">
+																										<Value Value="NO_ID" />
+																									</Property>
+																									<Property Name="Index">
+																										<Value Value="1" Type="0" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="TextViewFavorites" Key="{E6EEBC74-AFA3-4263-9265-2C14E6C28A03}">
+																										<Image FileName="1322021486" Left="48" Top="680" Right="1032" Bottom="729" />
+																										<TypeInfo Item0="{B0E26003-2EEB-4519-A6DD-1E086DF2572E}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="TextView" />
+																											</Property>
+																											<Property Name="ViewID">
+																												<Value Value="out_title" />
+																											</Property>
+																											<Property Name="ControlText">
+																												<Value Value="Favorites" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																								</Children>
+																							</Child>
+																						</Children>
+																					</Child>
+																					<Child Name="ViewSearch" Key="{336F611D-D6E0-4A74-BAA8-B8F08DEC01C5}">
+																						<Image FileName="-1479154763" Left="48" Top="464" Right="1032" Bottom="584" />
+																						<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="View" />
+																							</Property>
+																							<Property Name="ViewID">
+																								<Value Value="search_view" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="EditTextSearch" Key="{75FA60B5-B676-4802-998A-063C0E0459D9}">
+																								<Image FileName="-1479154763" Left="240" Top="492" Right="852" Bottom="557" />
+																								<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="EditText" />
+																									</Property>
+																									<Property Name="ViewID">
+																										<Value Value="in_search" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																							<Child Name="ImageViewSearch" Key="{10290376-AB46-42CD-8899-058FA30FDDEA}">
+																								<Image FileName="-1221908541" Left="48" Top="464" Right="216" Bottom="584" />
+																								<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="ImageView" />
+																									</Property>
+																									<Property Name="ViewID">
+																										<Value Value="action_search" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																							<Child Name="ImageViewSearchclear" Key="{F5FD87D3-627C-462D-8459-AEC884A3B03C}">
+																								<Image FileName="259827798" Left="876" Top="464" Right="1032" Bottom="584" />
+																								<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="ImageView" />
+																									</Property>
+																									<Property Name="ViewID">
+																										<Value Value="action_clear" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																			<Child Name="ButtonClose" Key="{2C0A1E27-5FBC-4C6D-81DF-A5748CA3D578}">
+																				<Image FileName="304274162" Left="741" Top="248" Right="1056" Bottom="392" />
+																				<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="Button" />
+																					</Property>
+																					<Property Name="ViewID">
+																						<Value Value="action_close" />
+																					</Property>
+																					<Property Name="JavaFullClassName">
+																						<Value Value="com.google.android.material.button.MaterialButton" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																			<Child Name="ViewContainerProfilrUnits" Key="{734F06E6-B118-4709-BF57-C61C6703C765}">
+																				<Image FileName="1699046757" Left="0" Top="416" Right="1080" Bottom="2076" />
+																				<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="View" />
+																					</Property>
+																					<Property Name="ViewID">
+																						<Value Value="container_content" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="ViewImperial" Key="{9A4B9B2E-EEA0-4CCE-B6A2-F37EFB1AEC2C}">
+																						<Image FileName="1699046757" Left="0" Top="560" Right="1080" Bottom="704" />
+																						<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="View" />
+																							</Property>
+																							<Property Name="ViewID">
+																								<Value Value="root" />
+																							</Property>
+																							<Property Name="Index">
+																								<Value Value="2" Type="0" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																					<Child Name="ViewMetric" Key="{57BCFD85-EB41-4843-8352-500AE8BE35B0}">
+																						<Image FileName="1213361461" Left="0" Top="416" Right="1080" Bottom="560" />
+																						<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="View" />
+																							</Property>
+																							<Property Name="ViewID">
+																								<Value Value="root" />
+																							</Property>
+																							<Property Name="Index">
+																								<Value Value="1" Type="0" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+															<Child Name="ViewPvSystemSettingsPopup" Key="{3733E6E5-1097-42F8-9A34-773D21BF2D03}">
+																<Image FileName="-171327761" Left="108" Top="821" Right="972" Bottom="1327" />
+																<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="View" />
+																	</Property>
+																	<Property Name="ViewID">
+																		<Value Value="parentPanel" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="LayoutscrollView" Key="{246571FA-5228-4732-9C67-AC1520CCE2E0}">
+																		<Image FileName="-1732773963" Left="108" Top="980" Right="972" Bottom="1159" />
+																		<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value Value="Layout" />
+																			</Property>
+																			<Property Name="ViewID">
+																				<Value Value="scrollView" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="TextViewMessage" Key="{CE4A8BA8-96C4-4326-9F3E-3EF6F40C8FAC}">
+																				<Image FileName="-1732773963" Left="108" Top="980" Right="972" Bottom="1159" />
+																				<TypeInfo Item0="{B0E26003-2EEB-4519-A6DD-1E086DF2572E}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="TextView" />
+																					</Property>
+																					<Property Name="ViewID">
+																						<Value Value="message" />
+																					</Property>
+																					<Property Name="ControlText">
+																						<Value Value="To edit your PV system, you will be redirected to the webview of Solar.web." />
+																					</Property>
+																				</Properties>
+																			</Child>
+																		</Children>
+																	</Child>
+																	<Child Name="ScrollViewbuttonPanel" Key="{80BBCC89-F434-4BFF-96D1-172EAD5BD65B}">
+																		<Image FileName="-1162922804" Left="108" Top="1159" Right="972" Bottom="1327" />
+																		<TypeInfo Item0="{5E927E70-981B-49E6-8DEB-29C99E5D6DF9}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value Value="ScrollView" />
+																			</Property>
+																			<Property Name="ViewID">
+																				<Value Value="buttonPanel" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="LayoutButtons" Key="{B72E32C9-53E0-405A-97C5-5FAD07FF448B}">
+																				<Image FileName="-1162922804" Left="108" Top="1159" Right="972" Bottom="1327" />
+																				<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="Layout" />
+																					</Property>
+																					<Property Name="ViewID">
+																						<Value Value="NO_ID" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="ButtonCancel" Key="{8403F3CF-5231-4E28-8725-AE49BE079A8A}">
+																						<Image FileName="-1162922804" Left="251" Top="1171" Right="515" Bottom="1315" />
+																						<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="Button" />
+																							</Property>
+																							<Property Name="ViewID">
+																								<Value Value="button2" />
+																							</Property>
+																							<Property Name="mText">
+																								<Value Value="Cancel" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																					<Child Name="ButtonEditSettings" Key="{136335F8-830A-4A93-8AEA-679BB94899EE}">
+																						<Image FileName="1831422747" Left="515" Top="1171" Right="936" Bottom="1315" />
+																						<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="Button" />
+																							</Property>
+																							<Property Name="ViewID">
+																								<Value Value="button1" />
+																							</Property>
+																							<Property Name="mText">
+																								<Value Value="Edit Settings" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																	<Child Name="LayouttopPanel" Key="{3D86AE45-1F2A-407A-9ACA-CFD75C869095}">
+																		<Image FileName="443123547" Left="108" Top="821" Right="972" Bottom="980" />
+																		<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value Value="Layout" />
+																			</Property>
+																			<Property Name="ViewID">
+																				<Value Value="topPanel" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+															<Child Name="ToolbarInformation" Key="{8598A358-BA65-4FB5-9385-5EE0F9C6D374}">
+																<Image FileName="863374015" Left="0" Top="72" Right="1080" Bottom="240" />
+																<TypeInfo Item0="{2FE311BD-8878-4FCE-840B-A83CD6678CC2}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="Toolbar" />
+																	</Property>
+																	<Property Name="ViewID">
+																		<Value Value="toolbar" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="ImageButtonBNack" Key="{D161FA5B-3A44-4941-ABCE-7C61FED96AAA}">
+																		<Image FileName="-154095298" Left="0" Top="72" Right="168" Bottom="240" />
+																		<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value Value="ImageButton" />
+																			</Property>
+																			<Property Name="ViewID">
+																				<Value Value="NO_ID" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+															<Child Name="ScrollViewInformation" Key="{EC0C9914-8319-4C49-BED8-4739A40BF02A}">
+																<Image FileName="-2145949651" Left="0" Top="240" Right="1080" Bottom="1331" />
+																<TypeInfo Item0="{5E927E70-981B-49E6-8DEB-29C99E5D6DF9}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="ScrollView" />
+																	</Property>
+																	<Property Name="ViewID">
+																		<Value Value="NO_ID" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="TextViewSelfsufficiency" Key="{481D76F7-E1DE-41A5-A726-381521872427}">
+																		<Image FileName="-2145949651" Left="48" Top="288" Right="1032" Bottom="361" />
+																		<TypeInfo Item0="{B0E26003-2EEB-4519-A6DD-1E086DF2572E}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value Value="TextView" />
+																			</Property>
+																			<Property Name="ViewID">
+																				<Value Value="out_title1" />
+																			</Property>
+																			<Property Name="ControlText">
+																				<Value Value="Self-sufficiency" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																	<Child Name="TextViewSelfSufficiencydescription" Key="{39367B39-9AE6-4960-AAD4-BC0165DA7D62}">
+																		<Image FileName="712056382" Left="48" Top="409" Right="1032" Bottom="588" />
+																		<TypeInfo Item0="{B0E26003-2EEB-4519-A6DD-1E086DF2572E}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value Value="TextView" />
+																			</Property>
+																			<Property Name="ViewID">
+																				<Value Value="out_description1" />
+																			</Property>
+																			<Property Name="ControlText">
+																				<Value Value="This value shows the percentage of my energy demand, which is currently supplied by solar power." />
+																			</Property>
+																		</Properties>
+																	</Child>
+																	<Child Name="TextViewSelfconsumption" Key="{166CB5B8-4D1A-4542-88BB-9DBAAD4057FC}">
+																		<Image FileName="-2063059461" Left="48" Top="696" Right="1032" Bottom="769" />
+																		<TypeInfo Item0="{B0E26003-2EEB-4519-A6DD-1E086DF2572E}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value Value="TextView" />
+																			</Property>
+																			<Property Name="ViewID">
+																				<Value Value="out_title2" />
+																			</Property>
+																			<Property Name="ControlText">
+																				<Value Value="Self-consumption" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																	<Child Name="TextViewSelfConsumptiondescription" Key="{87A0984D-0282-49D1-9D80-A464327B0C6B}">
+																		<Image FileName="-387736758" Left="48" Top="817" Right="1032" Bottom="996" />
+																		<TypeInfo Item0="{B0E26003-2EEB-4519-A6DD-1E086DF2572E}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value Value="TextView" />
+																			</Property>
+																			<Property Name="ViewID">
+																				<Value Value="out_description2" />
+																			</Property>
+																			<Property Name="ControlText">
+																				<Value Value="This value shows the percentage of my self produced solar power which is currently used by myself." />
+																			</Property>
+																		</Properties>
+																	</Child>
+																	<Child Name="TextViewSmartmeterdescription" Key="{B0219D21-0CDA-4618-85BF-A6E26577D189}">
+																		<Image FileName="-392507006" Left="48" Top="1104" Right="1032" Bottom="1283" />
+																		<TypeInfo Item0="{B0E26003-2EEB-4519-A6DD-1E086DF2572E}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value Value="TextView" />
+																			</Property>
+																			<Property Name="ViewID">
+																				<Value Value="out_description3" />
+																			</Property>
+																			<Property Name="ControlText">
+																				<Value Value="A Fronius Smart Meter is required for the visualisation of self-sufficiency and self-consumption" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																	<Child Name="ButtonSetelectricitytariff" Key="{9C0629FB-F56D-4F63-906D-C5C597CBD222}">
+																		<Image FileName="1305054642" Left="48" Top="515" Right="571" Bottom="659" />
+																		<TypeInfo Item0="{01DBD686-9A64-45B1-B466-42DDC6A30708}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value Value="Button" />
+																			</Property>
+																			<Property Name="ViewID">
+																				<Value Value="action_goto" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																	<Child Name="TextViewEarningsdescription" Key="{AE6C5D40-8B99-4507-B11E-9932F323C110}">
+																		<Image FileName="1039899352" Left="48" Top="707" Right="1032" Bottom="1342" />
+																		<TypeInfo Item0="{B0E26003-2EEB-4519-A6DD-1E086DF2572E}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value Value="TextView" />
+																			</Property>
+																			<Property Name="ViewID">
+																				<Value Value="out_description" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="Device" Owner="{3F7FA6A8-7166-4544-AF38-386BC71769F0}">
+			<Child Name="ProcessFroniusSolarweb" Owner="{AD27EED3-4D12-441E-8BAE-A52FC02EA372}">
+				<Child Name="Layout_NO_ID" Owner="{8ACA9CB6-9A56-41CF-B5C4-684012614F7A}">
+					<Child Name="Layout_action_bar_root" Owner="{C74A6272-C6C3-42DB-84DD-DCF4431C17FB}">
+						<Child Name="LayoutContent" Owner="{B4054828-3024-4097-8AD8-0D8A58482275}">
+							<Child Name="ViewMain" Owner="{5ECCF095-4E2E-44F9-9612-7144F8E8406F}">
+								<Child Name="ViewConstraintLayoutHomepage" Owner="{FB468669-7E9B-49E1-ADF1-57A7A5CECB5F}">
+									<Child Name="ButtonLogin" Owner="{EC41CCF4-FBED-43EE-9CFB-C07C4C36A23D}" />
+									<Child Name="ButtonSignup" Owner="{7AA0CF85-C8FE-4F82-A94F-97BCF385CD2E}" />
+									<Child Name="TextViewFRONIUSSOLARWEBHomepage" Owner="{34679C8C-E10D-412B-820C-1BEC2E029E81}" />
+								</Child>
+								<Child Name="ViewWidgetlayout" Owner="{462D0BD5-71A9-4207-A12D-6605D2E88C93}">
+									<Child Name="ToolbarTop" Owner="{B9554537-4F49-4415-955A-3465B1BFE4B0}">
+										<Child Name="ImageButtonTop" Owner="{A7C58B3E-4592-42BB-AF33-B9826AF5F386}" />
+										<Child Name="TextViewPvAnlage" Owner="{78925DF1-A45A-4EF9-8E44-0F8410BAC5F6}" />
+										<Child Name="BarSettings" Owner="{3A37F0B1-8CB4-430C-B5C5-B9F26A0AD82B}">
+											<Child Name="TextViewSettings" Owner="{AAF806C6-E334-4D75-A90D-2A74DE03E1D1}" />
+										</Child>
+									</Child>
+									<Child Name="ViewContent" Owner="{1F90C7F0-627F-4B27-9B41-F049572BCB2D}">
+										<Child Name="Viewcontainerinfo" Owner="{82049025-95B7-4C93-89FF-8A8339D7723A}">
+											<Child Name="ViewCurrentflow" Owner="{6B676322-5A9F-405F-9C15-425A5E6567A8}">
+												<Child Name="ViewProduction" Owner="{3C1AF30C-2BA4-47BB-8289-85A7D4C5CEB4}">
+													<Child Name="ImageViewiconProduction" Owner="{10CE7F3E-289E-44EB-A1C5-A1A00C5BB449}" />
+													<Child Name="TextViewProductionUnit" Owner="{E0E264AB-A941-4CCF-8035-88F2501BC155}" />
+													<Child Name="TextViewProductionValue" Owner="{1F5717C8-D960-405F-B928-A5982677A836}" />
+												</Child>
+												<Child Name="ViewConsumption" Owner="{BEA99A49-3D54-4CFC-AD95-02B38D69CF75}">
+													<Child Name="TextViewConsumptionUnit" Owner="{06AB2D60-34DF-4137-88E1-C49DA8AFB54A}" />
+													<Child Name="TextViewConsumptionValue" Owner="{50587F07-957A-4543-9ACC-B680176E9C39}" />
+													<Child Name="ImageViewiconConsumpion" Owner="{ED41CB9D-13F1-4F8C-8C51-F41E8B15CF85}" />
+												</Child>
+												<Child Name="ViewGrid" Owner="{1CDC6ED7-6A1D-4B09-B476-E373AF2C5E1D}">
+													<Child Name="TextViewGridvalue" Owner="{74699E18-75E4-4F47-A34B-693FB8850D25}" />
+													<Child Name="TextViewGridUnit" Owner="{4A5A9825-1CC1-4317-8500-F0D22D84BE31}" />
+													<Child Name="ImageViewiconGrid" Owner="{48005EC2-30ED-4081-825B-3BEEEDB45F6B}" />
+												</Child>
+												<Child Name="ViewBatteryStorage" Owner="{CB1E3C6C-DF45-4E7C-A657-CDCAC7B45721}">
+													<Child Name="TextViewOutBatteryvalue" Owner="{D979B502-6815-497D-B61A-BD5E986210C2}" />
+													<Child Name="TextViewBatteryUnit" Owner="{14A89500-7961-48ED-AC77-4CFE9E87EC83}" />
+													<Child Name="ViewImagebattery" Owner="{AFEE0340-5CC4-4609-A64C-9F60EE735456}">
+														<Child Name="TextViewBatteryImagePercent" Owner="{ADB2197B-0F54-4B8E-BA9D-B3C706E87C52}" />
+													</Child>
+												</Child>
+											</Child>
+											<Child Name="ViewRateSufficiency" Owner="{A58365A0-4308-4441-BE76-F1D6CA03740E}">
+												<Child Name="TextViewSufficiencyRate" Owner="{1BB35E32-5FB7-4EA6-9CE7-5BDA168E9239}" />
+												<Child Name="ImageViewiconRateSufficiency" Owner="{2D2F07AC-2323-4BA2-9F8D-DCAA92167993}" />
+												<Child Name="TextViewSelfsufficiency" Owner="{BFD88408-6EFB-4BAA-9BAD-6414CEB15B52}" />
+											</Child>
+											<Child Name="ViewRateConsumption" Owner="{15797183-8B84-47D3-A932-E5D7BB1D6016}">
+												<Child Name="TextViewConsumptionRate" Owner="{FD1AE237-DEAB-4339-BDBD-F3FF7C32267A}" />
+												<Child Name="ImageViewiconRateConsumption" Owner="{F1EA5F2A-7D82-4677-9632-3ABFA5F1267E}" />
+												<Child Name="TextViewSelfconsumption" Owner="{2C0D3D60-78B1-4838-A910-31D4A4203172}" />
+											</Child>
+										</Child>
+										<Child Name="TextViewOutTemperature" Owner="{BA1B769A-B70D-4245-88FE-D64D6C107434}" />
+										<Child Name="ImageViewinfo" Owner="{2FBB5DBD-F7CE-4365-BA53-3033356A4461}" />
+										<Child Name="ViewOffline" Owner="{B28D7C24-D9EB-49AC-8369-3285DA0E4127}">
+											<Child Name="TextViewoutTitle" Owner="{4224E465-288D-4F08-AA35-8AEBC9FA73B2}" />
+											<Child Name="ImageViewiconOffline" Owner="{BD785D55-D86C-4824-A00A-141B044890C8}" />
+										</Child>
+										<Child Name="ScrollViewProfile" Owner="{BE5B1200-3FD3-4067-B3DB-0CF468D70027}">
+											<Child Name="ViewLogout" Owner="{9207367D-9371-4747-B610-ED9D1066A580}">
+												<Child Name="View_root" Owner="{610AE204-EE09-429E-8532-6B1153CAC581}" />
+											</Child>
+											<Child Name="ViewSolarwebWebview" Owner="{4E152478-E34C-43A1-99C1-42E8B416D936}" />
+											<Child Name="ViewProductregistrationAndWarranty" Owner="{8E4ED173-C2A4-4DBD-BB4F-380B06163DE7}" />
+											<Child Name="ViewFAQs" Owner="{2063BD90-EDE7-41A0-81B8-B2E0F1D03215}" />
+											<Child Name="ViewImprint" Owner="{7624C23B-6F3D-4744-9CAE-C268D7A67B83}" />
+											<Child Name="ViewDataPrivacyStatement" Owner="{AAC8A653-66B8-47DC-B7B5-D1A5901B95FF}" />
+											<Child Name="ViewTermsandConditions" Owner="{3BB079DF-D3A1-4A92-A8A1-A5B3239A3AFD}" />
+											<Child Name="ViewSettings" Owner="{96D48F06-9DA5-402A-9CD9-9CA47E4F5F42}">
+												<Child Name="View_root" Owner="{1E7F9598-7A80-49A0-894C-A5067DED3C84}" />
+											</Child>
+										</Child>
+										<Child Name="ImageViewProfileFroniuslogo" Owner="{5B80D8E9-6009-4636-AB0D-93B329B13320}" />
+										<Child Name="TextViewProfileSolarwebheader" Owner="{705B962C-CFD6-4FDB-A1EA-1A2A84E71207}" />
+										<Child Name="TextViewprofileSolarwebVersion" Owner="{3AA97BF7-66C6-4363-BD17-60160EEA1D9E}" />
+										<Child Name="ViewHistoryChart" Owner="{921DEEC7-4D1C-49A8-8285-18C3EB24CF3C}">
+											<Child Name="ViewHistory" Owner="{DC0913B4-E1E1-4F08-913A-4ADFCB4B948A}">
+												<Child Name="TextViewHistory" Owner="{EB06F8D5-E29A-4C3C-9938-1D774EAED046}" />
+												<Child Name="ImageViewInfo" Owner="{CD6202D1-7508-4E3C-941F-B149850A4A77}" />
+												<Child Name="ViewConsumption" Owner="{79970B97-28DC-43A7-9030-A0D6806C9511}">
+													<Child Name="TextViewTotalconsumption" Owner="{7F9269BB-9D16-408F-B0F7-BEC7B042A8A6}" />
+													<Child Name="TextViewConsumptionValue" Owner="{5D1B1A0B-1CB0-4455-817F-47ED47A7B4C4}" />
+												</Child>
+												<Child Name="ViewStateofCharge" Owner="{BBB889F6-E894-4D49-8E24-D4D4903518E6}">
+													<Child Name="TextViewStateofcharge" Owner="{893AF217-3742-4C82-BEA1-6CFAB745B1AE}" />
+													<Child Name="TextViewStateofchargeValue" Owner="{756EBF7B-FD0C-4DED-B021-87FA649BAAEA}" />
+												</Child>
+												<Child Name="ViewSelfconsumption" Owner="{C962A794-4BD4-4A25-BDD9-1273E4A62932}">
+													<Child Name="TextViewSelfconsumption" Owner="{A212EF3E-A9FC-443B-B606-E61C44BCA4B2}" />
+													<Child Name="TextViewSelfconsumptionValue" Owner="{4E7344E1-499E-425A-BE30-7775523566B2}" />
+												</Child>
+												<Child Name="TextViewPVProduction" Owner="{9BC6124B-FEDF-424D-9D8A-EE339AB754BB}" />
+												<Child Name="TextViewPvProductionvalue" Owner="{6FDB19A3-8BC7-4091-BC58-C321EE86BF92}" />
+												<Child Name="ViewChart" Owner="{DADD64B4-9547-4E1E-87BA-733911D9EDB1}" />
+												<Child Name="TextViewLabelUnit" Owner="{87CF33BE-EFB1-4DC1-9A95-EE794438F42F}" />
+											</Child>
+										</Child>
+										<Child Name="TextViewHistorydateMonthorYear" Owner="{8A6CE444-201E-4DFE-AD6E-2CB86CFD7F7B}" />
+										<Child Name="ImageButtonHistorydateback" Owner="{3DAF60C4-69C8-40EA-800F-FA6FD8944AC9}" />
+										<Child Name="ImageButtonHistorydatenext" Owner="{C9480B4E-AD78-4580-8691-A48AA006196C}" />
+										<Child Name="TabHostHistorytabs" Owner="{FA350CDB-2BE7-49B0-BC0C-0B52699DA768}">
+											<Child Name="LayoutHistorytabs" Owner="{59C32308-22D9-4DF0-B75F-C44E43AF88F5}">
+												<Child Name="LayoutYear" Owner="{E1C266D2-B1EA-4316-BC89-824E4463CD7B}" />
+												<Child Name="LayoutDay" Owner="{03DEFE44-971E-4BFE-8DBD-7A85B78BF71E}" />
+												<Child Name="LayoutMonth" Owner="{90FC3ECC-8530-407B-83CD-B2C2B71AB521}" />
+												<Child Name="LayoutTotal" Owner="{81B39CA5-8B7A-4697-8C9C-116AF1E2621D}" />
+											</Child>
+										</Child>
+									</Child>
+									<Child Name="LayoutNavigation" Owner="{941CF199-64BD-4E0C-BD72-C878C3CB0365}">
+										<Child Name="ViewNAvigationMenu" Owner="{DBDCB22A-D64B-4F42-94D7-FE9BC1FCD23D}">
+											<Child Name="LayoutCurrent" Owner="{CE39CB4F-B0B2-4C4B-B7D6-406DB2A87037}" />
+											<Child Name="LayoutHistory" Owner="{D7242058-F439-422A-93A0-C811046F8FE7}" />
+											<Child Name="LayoutEarnings" Owner="{82E787A5-59F6-4484-81E3-C0F0ADCB3F5C}" />
+											<Child Name="LayoutSettingsProfile" Owner="{2316F68F-01CE-4C9D-BC1B-CE07BD77B9F7}" />
+										</Child>
+									</Child>
+									<Child Name="ScrollViewEarnings" Owner="{4E46EDB3-626E-4849-BAE4-4336E1887D66}">
+										<Child Name="ViewEarnings" Owner="{D7005481-80CB-48ED-8355-4A5588E4FA6C}">
+											<Child Name="TextViewEarningsTitle" Owner="{F075B883-2EBA-4505-A739-D7E3D3749CAB}" />
+											<Child Name="ImageViewinfo" Owner="{E0FB5987-5549-49E1-9FA8-A90991A35E40}" />
+											<Child Name="ViewToday" Owner="{8E5ED270-C461-4BBF-996F-B9A1428B8358}">
+												<Child Name="Viewroottoday" Owner="{8DFA46D6-8DDA-4AD4-8E8D-D3FA2A1876E4}">
+													<Child Name="TextViewTodayvalue" Owner="{A0632765-0CDB-4318-AB5A-2B8B8E784312}" />
+												</Child>
+											</Child>
+											<Child Name="ViewCO2savingstotal" Owner="{06A2F750-55EC-4FF5-B6CE-9D1868C331F9}">
+												<Child Name="ViewTotal" Owner="{9978EF0A-73BA-476D-8F90-7EC412034C1F}">
+													<Child Name="TextViewUnit" Owner="{916A3278-0C85-478A-A622-F13449CA8DF9}" />
+												</Child>
+											</Child>
+											<Child Name="ViewSavingsplane" Owner="{424ADAEB-3C1E-49D6-881A-0E432764B1DE}">
+												<Child Name="Viewplane" Owner="{A5D40561-18DD-419F-A69B-6DC1451F09D5}">
+													<Child Name="TextViewUnit" Owner="{45B2E3E1-24DF-40A9-9F6A-2C1312187899}" />
+												</Child>
+											</Child>
+											<Child Name="ViewSavingsTree" Owner="{A44486A6-327F-44E8-85A1-5652A92C3957}">
+												<Child Name="ViewTree" Owner="{C07442A4-B399-40D9-B239-3E68B1A0ECBF}">
+													<Child Name="TextViewUnit" Owner="{FBFE71EA-6128-45B9-A5A0-254454BC3463}" />
+												</Child>
+											</Child>
+											<Child Name="ViewSavingsCar" Owner="{5584E4E7-9165-41CE-A07B-6419DD31715A}">
+												<Child Name="ViewCar" Owner="{926C95D9-86C1-4B87-9D71-17D2841CED27}">
+													<Child Name="TextViewUnit" Owner="{9278EA21-B1CF-4F52-B448-C72DE0FAB706}" />
+												</Child>
+											</Child>
+										</Child>
+									</Child>
+								</Child>
+								<Child Name="LayoutProfileSettings" Owner="{0D3B0C29-39E7-42BE-BCAC-6DDB233DD7DC}">
+									<Child Name="ToolbarSettingsheader" Owner="{B3F67E20-DABF-472E-BFA4-2A5F15D2ADF3}">
+										<Child Name="ImageButtongoback" Owner="{603A35FF-5E02-4AEF-AC1F-09D021991F97}" />
+									</Child>
+									<Child Name="ViewcontainerDarkmode" Owner="{E20FBC96-9F6E-42FF-88EE-40BF8E279F2B}">
+										<Child Name="SwitchDark" Owner="{D5714347-B7F8-42E0-9C2C-D6145D250578}" />
+									</Child>
+									<Child Name="ViewcontainerAutoDarkMode" Owner="{D8819B15-92CE-4B93-A5B8-26BE9DD54210}">
+										<Child Name="SwitchAutoDarkmode" Owner="{CBF10A89-E54B-4EE4-B513-A92F3C9AFA23}" />
+									</Child>
+									<Child Name="ViewUnits" Owner="{ED06E72F-019D-40B4-8934-0DF588A725BC}">
+										<Child Name="ViewrootUnit" Owner="{4F88C227-BB97-4CBA-9048-57429FB7AEF5}">
+											<Child Name="ImageViewArrow" Owner="{6F46399D-DB75-460D-A5AD-7D4200F5E8E7}" />
+											<Child Name="TextViewUnit" Owner="{6CD6D0C4-ED69-495C-908D-753152611646}" />
+										</Child>
+									</Child>
+								</Child>
+								<Child Name="ViewHistoryinfo" Owner="{1874D385-5EF4-4A22-9332-AE37047321CA}">
+									<Child Name="ViewPVProduction" Owner="{163B107F-96F3-4377-9FE9-4B2DFF73FA3E}">
+										<Child Name="TextViewPVproduction" Owner="{240D9F42-E989-4D68-ABB8-67C5ECDF0C57}" />
+									</Child>
+									<Child Name="ViewSelfConsumption" Owner="{72C7D854-2CEB-402A-B00E-59553AA6EA20}">
+										<Child Name="TextViewSelfconsumption" Owner="{48FBBC87-3AA3-49EE-9326-E770CC1A61DB}" />
+									</Child>
+									<Child Name="ViewTotalConsumption" Owner="{A4E17B09-97E7-47C6-ACC8-6C8A859CE479}">
+										<Child Name="TextViewTotalconsumption" Owner="{680A2D39-E388-4660-A1A5-ED548657EE33}" />
+									</Child>
+								</Child>
+							</Child>
+							<Child Name="ViewLogin" Owner="{0266BF94-E52C-4504-9680-5E9AE9922D27}">
+								<Child Name="View_NO_ID" Owner="{B84416F9-82A2-47D1-8BC9-9E03B8A38F25}">
+									<Child Name="TextViewLogin" Owner="{6EBC909B-9CDF-4717-BB5A-EB27975F61F0}" />
+									<Child Name="ViewContainerLogin" Owner="{77F2351A-0C4C-4D6E-AF00-056F2149C077}">
+										<Child Name="ScrollViewLogin" Owner="{D940DBCB-5AC2-485E-A37F-05FB42209070}">
+											<Child Name="ViewInput" Owner="{56A8AD7C-327C-47F9-8B86-3F880A217718}">
+												<Child Name="LayoutEmail" Owner="{01CC0F70-57F3-48FE-A4AA-A2D1FD067055}">
+													<Child Name="EditTextEmail" Owner="{8094D27B-B066-4833-A1C6-A8BE33FF0C7A}" />
+												</Child>
+												<Child Name="LayoutPassword" Owner="{3063936B-2515-4F66-B718-DE3B18032E48}">
+													<Child Name="EditTextPassword" Owner="{AFC7EED3-B627-4273-9322-74EBBDB3246E}" />
+												</Child>
+												<Child Name="ButtonLogin" Owner="{873FB431-4D68-48C5-97BF-E807CCBEE360}" />
+												<Child Name="ViewContainertermsandconditions" Owner="{58096FA4-48B9-418B-A676-2C7B701B2D7F}">
+													<Child Name="SwitchAgree" Owner="{97FECA80-DD9F-4506-856D-442D0F522577}" />
+													<Child Name="TextViewouttermsandconditions" Owner="{D777ED82-99AE-4A6D-A78A-C719AF27F613}" />
+												</Child>
+												<Child Name="ButtonForgotPassword" Owner="{53115919-1BE3-418C-8217-0ECBBF4C32B3}" />
+											</Child>
+										</Child>
+										<Child Name="ViewListPvsystem" Owner="{4FAFB46A-2FE6-4C16-9C00-99980D2023CD}">
+											<Child Name="ViewFirstPvSystem" Owner="{B027BBE5-C0E2-41E7-8C8F-02A9345FF253}">
+												<Child Name="ImageViewicon" Owner="{BA85858C-0CD8-4EB3-89E9-B2BFD7A10BDF}" />
+												<Child Name="TextViewtitle" Owner="{C35E6E2D-4E70-4C56-A973-3C27579289AE}" />
+												<Child Name="ImageViewiconfavourite" Owner="{921794F0-C86F-4072-93E7-ADFC52825223}" />
+											</Child>
+											<Child Name="ViewSecondPvsystem" Owner="{7E5DBC32-5681-4AEC-8E83-5A36B0BE91AC}">
+												<Child Name="ImageViewiconfavourite" Owner="{FE9D0EB7-7216-4BBA-9A79-8F7624D194B0}" />
+											</Child>
+											<Child Name="ViewThirdPvsystem" Owner="{233175D6-A618-486D-808A-83C29F261928}" />
+											<Child Name="ViewFourthPvsystem" Owner="{89C1C35A-B8F6-40BF-B151-286A1017D817}">
+												<Child Name="ImageViewiconsystem" Owner="{0941374F-6DE6-4063-8E84-E6EC7340F504}" />
+											</Child>
+											<Child Name="ViewFifthPvsystem" Owner="{6764FACF-8500-4A48-8DCC-C2FF7AE65420}">
+												<Child Name="ImageViewiconsystem" Owner="{B49894DE-7F5D-4182-B9DA-575BA0E62087}" />
+												<Child Name="TextViewTitle" Owner="{FD5C389E-2D2C-4619-96A7-C4E450647191}" />
+											</Child>
+											<Child Name="ViewSixthPvsystem" Owner="{A22A1767-EC1C-4196-BE3D-A42B046792F2}" />
+											<Child Name="ViewFavorites" Owner="{CAF9B9E8-C5EA-45D3-ADA4-8F9DF26806D1}">
+												<Child Name="TextViewFavorites" Owner="{E6EEBC74-AFA3-4263-9265-2C14E6C28A03}" />
+											</Child>
+										</Child>
+										<Child Name="ViewSearch" Owner="{336F611D-D6E0-4A74-BAA8-B8F08DEC01C5}">
+											<Child Name="EditTextSearch" Owner="{75FA60B5-B676-4802-998A-063C0E0459D9}" />
+											<Child Name="ImageViewSearch" Owner="{10290376-AB46-42CD-8899-058FA30FDDEA}" />
+											<Child Name="ImageViewSearchclear" Owner="{F5FD87D3-627C-462D-8459-AEC884A3B03C}" />
+										</Child>
+									</Child>
+									<Child Name="ButtonClose" Owner="{2C0A1E27-5FBC-4C6D-81DF-A5748CA3D578}" />
+									<Child Name="ViewContainerProfilrUnits" Owner="{734F06E6-B118-4709-BF57-C61C6703C765}">
+										<Child Name="ViewImperial" Owner="{9A4B9B2E-EEA0-4CCE-B6A2-F37EFB1AEC2C}" />
+										<Child Name="ViewMetric" Owner="{57BCFD85-EB41-4843-8352-500AE8BE35B0}" />
+									</Child>
+								</Child>
+							</Child>
+							<Child Name="ViewPvSystemSettingsPopup" Owner="{3733E6E5-1097-42F8-9A34-773D21BF2D03}">
+								<Child Name="LayoutscrollView" Owner="{246571FA-5228-4732-9C67-AC1520CCE2E0}">
+									<Child Name="TextViewMessage" Owner="{CE4A8BA8-96C4-4326-9F3E-3EF6F40C8FAC}" />
+								</Child>
+								<Child Name="ScrollViewbuttonPanel" Owner="{80BBCC89-F434-4BFF-96D1-172EAD5BD65B}">
+									<Child Name="LayoutButtons" Owner="{B72E32C9-53E0-405A-97C5-5FAD07FF448B}">
+										<Child Name="ButtonCancel" Owner="{8403F3CF-5231-4E28-8725-AE49BE079A8A}" />
+										<Child Name="ButtonEditSettings" Owner="{136335F8-830A-4A93-8AEA-679BB94899EE}" />
+									</Child>
+								</Child>
+								<Child Name="LayouttopPanel" Owner="{3D86AE45-1F2A-407A-9ACA-CFD75C869095}" />
+							</Child>
+							<Child Name="ToolbarInformation" Owner="{8598A358-BA65-4FB5-9385-5EE0F9C6D374}">
+								<Child Name="ImageButtonBNack" Owner="{D161FA5B-3A44-4941-ABCE-7C61FED96AAA}" />
+							</Child>
+							<Child Name="ScrollViewInformation" Owner="{EC0C9914-8319-4C49-BED8-4739A40BF02A}">
+								<Child Name="TextViewSelfsufficiency" Owner="{481D76F7-E1DE-41A5-A726-381521872427}" />
+								<Child Name="TextViewSelfSufficiencydescription" Owner="{39367B39-9AE6-4960-AAD4-BC0165DA7D62}" />
+								<Child Name="TextViewSelfconsumption" Owner="{166CB5B8-4D1A-4542-88BB-9DBAAD4057FC}" />
+								<Child Name="TextViewSelfConsumptiondescription" Owner="{87A0984D-0282-49D1-9D80-A464327B0C6B}" />
+								<Child Name="TextViewSmartmeterdescription" Owner="{B0219D21-0CDA-4618-85BF-A6E26577D189}" />
+								<Child Name="ButtonSetelectricitytariff" Owner="{9C0629FB-F56D-4F63-906D-C5C597CBD222}" />
+								<Child Name="TextViewEarningsdescription" Owner="{AE6C5D40-8B99-4507-B11E-9932F323C110}" />
+							</Child>
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+		</Child>
+	</LogicalNodes>
+</Root>

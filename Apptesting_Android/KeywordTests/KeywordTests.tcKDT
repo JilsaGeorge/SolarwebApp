@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="14.0">
+	<children>
+		<folder name="Functions">
+			<child name="Login" key="{EF79B158-9B55-420B-80DB-D57D275A778A}" path="Login.tcKDTest" />
+			<child name="Logout" key="{B4820F75-E39A-4ADA-9D59-1B1F025921C8}" path="Logout.tcKDTest" />
+		</folder>
+		<child name="Login_check" key="{E729BFB1-2121-473E-BF1D-5CD7230440BE}" path="Login_check.tcKDTest" />
+		<child name="CurrentPvSystems" key="{F689A14D-D77B-45AC-BD07-725DFE4A1249}" path="CurrentPvSystems.tcKDTest" />
+		<child name="History" key="{AC8EDEC6-E2E9-4B19-B850-5539B1F1F401}" path="History.tcKDTest" />
+		<child name="Profile" key="{33AAE8FC-9572-4E82-9F80-EA88E8E8B212}" path="Profile.tcKDTest" />
+		<child name="Earnings" key="{9F2F36BA-3464-462A-8B2F-CC172B0E7AAB}" path="Earnings.tcKDTest" />
+	</children>
+</Root>

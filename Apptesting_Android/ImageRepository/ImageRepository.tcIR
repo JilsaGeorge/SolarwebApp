@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{E7C36009-4A66-4899-99AE-DEFC5C22C057}" version="1400" key="{B78A26EF-8B2A-4AFF-BA55-3EA6FE64C6EB}" typeId="{E7C36009-4A66-4899-99AE-DEFC5C22C057}">
+	<config nodeName="ImageRepository" />
+	<testData />
+	<data />
+	<children>
+		<child key="{C9988658-4A56-47A4-81E4-5E84284E400F}" path="solarweb.tcIRIS" />
+		<child key="{0A339BE5-C474-4E07-85CB-A4FEDBBF1AB3}" path="Profilewebview.tcIRIS" />
+		<child key="{FB3CA690-4717-4581-9BC9-9A07589910C1}" path="Current.tcIRIS" />
+	</children>
+</Root>

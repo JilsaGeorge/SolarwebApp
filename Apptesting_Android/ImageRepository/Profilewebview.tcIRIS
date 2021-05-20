@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{302E54A8-7D5B-4593-9563-357C2734256B}" version="1400" key="{0A339BE5-C474-4E07-85CB-A4FEDBBF1AB3}" typeId="{302E54A8-7D5B-4593-9563-357C2734256B}">
+	<config nodeName="Profilewebview" />
+	<testData />
+	<data>
+		<item caption="solarwebview" moniker="{1AB5C56D-077E-45CD-B53B-6E1093C2EF79}" isComposite="True" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\solarwebview.png" initialHash="3A2B4E68" selectionLeft="0" selectionTop="94" selectionWidth="1078" selectionHeight="1945" initialLeft="0" initialTop="94" initialWidth="1078" initialHeight="1945" pixelTolerance="0" colorTolerance="0" deviceName="SM-A530F" />
+		</item>
+		<item caption="Productregwarranty" moniker="{0DBF4CF1-1C9F-4B2E-98E5-3ADC555A3BCD}" isComposite="True" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\Productregwarranty.png" initialHash="F9B3CDC2" selectionLeft="0" selectionTop="89" selectionWidth="1078" selectionHeight="2000" initialLeft="0" initialTop="89" initialWidth="1078" initialHeight="2000" pixelTolerance="0" colorTolerance="0" deviceName="SM-A530F" />
+		</item>
+		<item caption="Fags" moniker="{DC2F4961-311D-4501-9CE4-42355D10DE1F}" isComposite="True" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\Fags.png" initialHash="20DD0B08" selectionLeft="0" selectionTop="106" selectionWidth="1033" selectionHeight="1988" initialLeft="0" initialTop="106" initialWidth="1033" initialHeight="1988" pixelTolerance="0" colorTolerance="0" deviceName="SM-A530F" />
+		</item>
+		<item caption="imprint" moniker="{9D60220E-572C-4631-BBF4-62723E185F8E}" isComposite="True" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\imprint.png" initialHash="9FF2BFD1" selectionLeft="0" selectionTop="100" selectionWidth="1078" selectionHeight="1983" initialLeft="0" initialTop="100" initialWidth="1078" initialHeight="1983" pixelTolerance="0" colorTolerance="0" deviceName="SM-A530F" />
+		</item>
+		<item caption="Dataprivacy" moniker="{1AFA5003-DC94-43B1-AF44-7C1BF21D320B}" isComposite="True" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\Dataprivacy.png" initialHash="63C4FCAC" selectionLeft="0" selectionTop="106" selectionWidth="1078" selectionHeight="1961" initialLeft="0" initialTop="106" initialWidth="1078" initialHeight="1961" pixelTolerance="0" colorTolerance="0" deviceName="SM-A530F" />
+		</item>
+		<item caption="Termsandconditions" moniker="{D012A5C5-A10B-4F7B-B28F-D6C6CF4F0DFA}" isComposite="True" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\Termsandconditions.png" initialHash="00000000" selectionLeft="0" selectionTop="78" selectionWidth="1078" selectionHeight="2011" initialLeft="0" initialTop="78" initialWidth="1078" initialHeight="2011" pixelTolerance="0" colorTolerance="0" deviceName="SM-A530F" />
+		</item>
+	</data>
+</Root>

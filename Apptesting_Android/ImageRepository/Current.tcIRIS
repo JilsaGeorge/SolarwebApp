@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{302E54A8-7D5B-4593-9563-357C2734256B}" version="1400" key="{FB3CA690-4717-4581-9BC9-9A07589910C1}" typeId="{302E54A8-7D5B-4593-9563-357C2734256B}">
+	<config nodeName="Current" />
+	<testData />
+	<data>
+		<item caption="Grid" moniker="{B00EB268-FD03-491B-A3D5-8D3DD2E3D656}" isComposite="True" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\Grid.png" initialHash="4514D8E6" selectionLeft="806" selectionTop="483" selectionWidth="188" selectionHeight="206" initialLeft="806" initialTop="483" initialWidth="188" initialHeight="206" pixelTolerance="0" colorTolerance="0" deviceName="SM-A530F" />
+		</item>
+		<item caption="Favoriteicon" moniker="{6C204668-8655-4D29-9F21-F17D66F96796}" isComposite="True" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\Favoriteicon.png" initialHash="A0CBEAD7" selectionLeft="922" selectionTop="761" selectionWidth="150" selectionHeight="145" initialLeft="922" initialTop="761" initialWidth="150" initialHeight="145" pixelTolerance="0" colorTolerance="0" deviceName="SM-A530F" />
+		</item>
+		<item caption="unfavIcon" moniker="{1231A49F-D201-4E75-8AB2-D6428F785B1A}" isComposite="True" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\unfavIcon.png" initialHash="00000000" selectionLeft="900" selectionTop="789" selectionWidth="172" selectionHeight="111" initialLeft="900" initialTop="789" initialWidth="172" initialHeight="111" pixelTolerance="0" colorTolerance="0" deviceName="SM-A530F" />
+		</item>
+	</data>
+</Root>

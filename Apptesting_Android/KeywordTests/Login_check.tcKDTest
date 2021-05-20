@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{B9D9273E-7266-43E0-BF02-97F168593604}" version="14.0">
+	<TestData Description="" Key="{037E58C5-0DFA-4C93-ACC5-966AA183F7F0}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
+		<Data>
+			<Extenders>
+				<NodeBitmaps>
+					<Bitmap Name="Aliases.Device" Data="61717A697000000001000000360400007801AD8E3D0AC240108547F0001EC1CE888D5550D4C2580B82DE44C5C61BC41FD03A2685BDF807A9849C4CF336199864D7C4C20D5FE6CD9B37D93863BB4AEAD8F1DB8AA9A554A81EABF8A4F3A449DE6F323F0D6F4E0053A9CD69DD953B52EB49B3639D16043095DA9CCEBA4D7F49DFC826F5AE7375A98CFC562B581180DFBD6D4A414EEEF4EE5B02F05917559983EE3F760AA9D9335599831E3CF70AA9D9335599839EBC3C85D4EC99AACC41FFF3699FD70486175755535F74DF34F2C9090FEA9F5019EC40635EB48FD92C0A68141E35E097EDF21CFBC833E879F64BCDDF95EFF91B1F37E4BF06" />
+					<Bitmap Name="Aliases.Device.ProcessFroniusSolarweb" Data="61717A69700000000100000036040000780195925B4B1B4114C72DF801FC087D1015F4D5F8EEBB1FC10783144A950822221531F612CB269A60D46A07EA25C66CE226116FA8B1EB6A259A98C4A06B83A25063454569978AAF7F7766752546901DF8CD99C3E17786B954D7980A0BD830A973994AD13DAF0A5EAB2B75DCD7B5E471265C338C3035EA042104B4C3CA42104BA4D11099F57174B6B7C1DDE702F537852E431CC705D83E58D1DED6C2FC5FE2108C70B6B708A7FD0B3E7FEC647E3625C0085747EB18EAEF83AB9763FEF561044650B2318C7D2720C303AA1F4262D5AF21AA31075ECDF3F92D4BE07D1E4C7846C0711CCC6633069D360483FE1721EE4F084C7C839DB321E0F7B237A43D3697BCB8BDFDCB28F5BD01A5C45BCF225DDBE35A3D2D8E43F9B383E1AF6E582C16E6D37FB0B5FCE897CF36A172AE050D733D281EAB03CD1D091FEB9D163D50CE76B1938CE92EF32393FAFEE59166C84A167BFF4EF036DC8D62BE1E8E34AFF9D224947339CF8FFDD0EAF40C153F5BF16E7F04A66807E49B53D406AD70C801CD5FE3A15C64F27D714ADFBF22FE1E0F5425ACA8CB10383282E66F08502E0FF27D29A4FBAE93793C453A4F6A7E348CFFD747CFF8D3BAFFF00ECFC5747406CBB3BE9CBBA3F7B71D5D414C0ABF4008A98494E3DE01579FCC80" />
+					<Bitmap Name="Aliases.Device.ProcessFroniusSolarweb.Layout_NO_ID" Data="61717A69700000000100000036040000780195925B4B1B4114C72DF801FC087D1015F4D5F8EEBB1FC10783144A950822221531F612CB269A60D46A07EA25C66CE226116FA8B1EB6A259A98C4A06B83A25063454569978AAF7F7766752546901DF8CD99C3E17786B954D7980A0BD830A973994AD13DAF0A5EAB2B75DCD7B5E471265C338C3035EA042104B4C3CA42104BA4D11099F57174B6B7C1DDE702F537852E431CC705D83E58D1DED6C2FC5FE2108C70B6B708A7FD0B3E7FEC647E3625C0085747EB18EAEF83AB9763FEF561044650B2318C7D2720C303AA1F4262D5AF21AA31075ECDF3F92D4BE07D1E4C7846C0711CCC6633069D360483FE1721EE4F084C7C839DB321E0F7B237A43D3697BCB8BDFDCB28F5BD01A5C45BCF225DDBE35A3D2D8E43F9B383E1AF6E582C16E6D37FB0B5FCE897CF36A172AE050D733D281EAB03CD1D091FEB9D163D50CE76B1938CE92EF32393FAFEE59166C84A167BFF4EF036DC8D62BE1E8E34AFF9D224947339CF8FFDD0EAF40C153F5BF16E7F04A66807E49B53D406AD70C801CD5FE3A15C64F27D714ADFBF22FE1E0F5425ACA8CB10383282E66F08502E0FF27D29A4FBAE93793C453A4F6A7E348CFFD747CFF8D3BAFFF00ECFC5747406CBB3BE9CBBA3F7B71D5D414C0ABF4008A98494E3DE01579FCC80" />
+					<Bitmap Name="Aliases.Device.ProcessFroniusSolarweb.Layout_NO_ID.Layout_action_bar_root" Data="61717A69700000000100000036040000780195925B4B1B4114C72DF801FC087D1015F4D5F8EEBB1FC10783144A950822221531F612CB269A60D46A07EA25C66CE226116FA8B1EB6A259A98C4A06B83A25063454569978AAF7F7766752546901DF8CD99C3E17786B954D7980A0BD830A973994AD13DAF0A5EAB2B75DCD7B5E471265C338C3035EA042104B4C3CA42104BA4D11099F57174B6B7C1DDE702F537852E431CC705D83E58D1DED6C2FC5FE2108C70B6B708A7FD0B3E7FEC647E3625C0085747EB18EAEF83AB9763FEF561044650B2318C7D2720C303AA1F4262D5AF21AA31075ECDF3F92D4BE07D1E4C7846C0711CCC6633069D360483FE1721EE4F084C7C839DB321E0F7B237A43D3697BCB8BDFDCB28F5BD01A5C45BCF225DDBE35A3D2D8E43F9B383E1AF6E582C16E6D37FB0B5FCE897CF36A172AE050D733D281EAB03CD1D091FEB9D163D50CE76B1938CE92EF32393FAFEE59166C84A167BFF4EF036DC8D62BE1E8E34AFF9D224947339CF8FFDD0EAF40C153F5BF16E7F04A66807E49B53D406AD70C801CD5FE3A15C64F27D714ADFBF22FE1E0F5425ACA8CB10383282E66F08502E0FF27D29A4FBAE93793C453A4F6A7E348CFFD747CFF8D3BAFFF00ECFC5747406CBB3BE9CBBA3F7B71D5D414C0ABF4008A98494E3DE01579FCC80" />
+					<Bitmap Name="Aliases.Device.ProcessFroniusSolarweb.Layout_NO_ID.Layout_action_bar_root.LayoutContent" Data="61717A69700000000100000036040000780195925B4B1B4114C72DF801FC087D1015F4D5F8EEBB1FC10783144A950822221531F612CB269A60D46A07EA25C66CE226116FA8B1EB6A259A98C4A06B83A25063454569978AAF7F7766752546901DF8CD99C3E17786B954D7980A0BD830A973994AD13DAF0A5EAB2B75DCD7B5E471265C338C3035EA042104B4C3CA42104BA4D11099F57174B6B7C1DDE702F537852E431CC705D83E58D1DED6C2FC5FE2108C70B6B708A7FD0B3E7FEC647E3625C0085747EB18EAEF83AB9763FEF561044650B2318C7D2720C303AA1F4262D5AF21AA31075ECDF3F92D4BE07D1E4C7846C0711CCC6633069D360483FE1721EE4F084C7C839DB321E0F7B237A43D3697BCB8BDFDCB28F5BD01A5C45BCF225DDBE35A3D2D8E43F9B383E1AF6E582C16E6D37FB0B5FCE897CF36A172AE050D733D281EAB03CD1D091FEB9D163D50CE76B1938CE92EF32393FAFEE59166C84A167BFF4EF036DC8D62BE1E8E34AFF9D224947339CF8FFDD0EAF40C153F5BF16E7F04A66807E49B53D406AD70C801CD5FE3A15C64F27D714ADFBF22FE1E0F5425ACA8CB10383282E66F08502E0FF27D29A4FBAE93793C453A4F6A7E348CFFD747CFF8D3BAFFF00ECFC5747406CBB3BE9CBBA3F7B71D5D414C0ABF4008A98494E3DE01579FCC80" />
+				</NodeBitmaps>
+			</Extenders>
+		</Data>
+		<Children>
+			<Operation Type="{F47021EA-8411-4700-9F6A-D3FC8CD780EC}">
+				<Data Description="Specifies the mobile device as current for the test commands working with mobile devices.">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="Name" DefVarType="8" VarType="8" ValueType="6" ValueValue="SM-A530F" />
+						<Parameter Name="Index" DefVarType="3" DefValueType="1" DefValueValue="1" VarType="3" ValueType="1" ValueValue="1" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
+				<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.Device.ProcessFroniusSolarweb.Layout_NO_ID.Layout_action_bar_root.LayoutContent.ViewMain.ViewConstraintLayoutHomepage.TextViewFRONIUSSOLARWEBHomepage" />
+						<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="ControlText" />
+						<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Value" DefVarType="12" VarType="8" ValueType="6" ValueValue="FRONIUS SOLAR.WEB" />
+						<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
+				<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.Device.ProcessFroniusSolarweb.Layout_NO_ID.Layout_action_bar_root.LayoutContent.ViewMain.ViewConstraintLayoutHomepage.TextViewFRONIUSSOLARWEBHomepage" />
+						<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="Exists" />
+						<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Value" DefVarType="12" VarType="11" ValueType="7" ValueValue="True" />
+						<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{D993D251-65A9-4BED-A2EC-C2AC83739BAD}">
+				<Data GroupName="Navigate" />
+				<Children>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Simulates a touch on the View control at the specified position in control-relative coordinates. If no coordinates are specified, a touch is simulated in the center of the control." Action="Touch">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="X" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+								<Parameter Name="Y" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+							</Parameters>
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.Device.ProcessFroniusSolarweb.Layout_NO_ID.Layout_action_bar_root.LayoutContent.ViewMain.ViewConstraintLayoutHomepage.ButtonLogin" />
+						</Data>
+					</Operation>
+					<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
+						<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.Device.ProcessFroniusSolarweb.Layout_NO_ID.Layout_action_bar_root.LayoutContent.ViewLogin.View_NO_ID.TextViewLogin" />
+								<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="ControlText" />
+								<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+								<Parameter Name="Value" DefVarType="12" VarType="8" ValueType="6" ValueValue="Login" />
+								<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
+							</Parameters>
+						</Data>
+					</Operation>
+					<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
+						<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.Device.ProcessFroniusSolarweb.Layout_NO_ID.Layout_action_bar_root.LayoutContent.ViewLogin.View_NO_ID.TextViewLogin" />
+								<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="Exists" />
+								<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+								<Parameter Name="Value" DefVarType="12" VarType="11" ValueType="7" ValueValue="True" />
+								<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
+							</Parameters>
+						</Data>
+					</Operation>
+				</Children>
+			</Operation>
+			<Operation Type="{D993D251-65A9-4BED-A2EC-C2AC83739BAD}">
+				<Data GroupName="WrongCredentials" />
+				<Children>
+					<Operation Type="{BFB3C418-1303-46B3-9B24-3624AB5EB529}">
+						<Data Description="Posts an information message to the test log." MessageType="0">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="MessageText" DefVarType="12" VarType="8" ValueType="6" ValueValue="With wrong email / pw credentials - No login possible!" />
+								<Parameter Name="Details" DefVarType="12" VarType="8" ValueType="6" ValueValue="" />
+								<Parameter Name="Priority" DefVarType="12" DefValueType="1" DefValueValue="300" VarType="3" ValueType="1" ValueValue="300">
+									<Values IsEnum="True">
+										<Value Type="1" Value="100" Text="pmLowest" />
+										<Value Type="1" Value="200" Text="pmLower" />
+										<Value Type="1" Value="300" Text="pmNormal" />
+										<Value Type="1" Value="400" Text="pmHigher" />
+										<Value Type="1" Value="500" Text="pmHighest" />
+									</Values>
+								</Parameter>
+								<Parameter Name="Attrib" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+								<Parameter Name="Picture" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+								<Parameter Name="FolderId" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+							</Parameters>
+						</Data>
+					</Operation>
+					<Operation Type="{D993D251-65A9-4BED-A2EC-C2AC83739BAD}">
+						<Data GroupName="WrongSet1" />
+						<Children>
+							<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+								<Data Description="Simulates one or several keypresses." Action="Keys">
+									<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+										<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="wronguser" />
+									</Parameters>
+									<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.Device.ProcessFroniusSolarweb.Layout_NO_ID.Layout_action_bar_root.LayoutContent.ViewLogin.View_NO_ID.ViewContainerLogin.ScrollViewLogin.ViewInput.LayoutEmail.EditTextEmail" />
+								</Data>
+							</Operation>
+							<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+								<Data Description="Moves the pointer location to a control and touches it until the specified state is reached." Action="CheckButton">
+									<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+										<Parameter Name="State" DefVarType="12" VarType="11" ValueType="7" ValueValue="True" />
+									</Parameters>
+									<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.Device.ProcessFroniusSolarweb.Layout_NO_ID.Layout_action_bar_root.LayoutContent.ViewLogin.View_NO_ID.ViewContainerLogin.ScrollViewLogin.ViewInput.ViewContainertermsandconditions.SwitchAgree" />
+								</Data>
+							</Operation>
+							<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
+								<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
+									<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+										<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.Device.ProcessFroniusSolarweb.Layout_NO_ID.Layout_action_bar_root.LayoutContent.ViewLogin.View_NO_ID.ViewContainerLogin.ScrollViewLogin.ViewInput.ButtonLogin" />
+										<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="Enabled" />
+										<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+										<Parameter Name="Value" DefVarType="12" VarType="11" ValueType="7" ValueValue="False" />
+										<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
+									</Parameters>
+								</Data>
+							</Operation>
+						</Children>
+					</Operation>
+					<Operation Type="{D993D251-65A9-4BED-A2EC-C2AC83739BAD}">
+						<Data GroupName="Wrongset2" />
+						<Children>
+							<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+								<Data Description="Simulates one or several keypresses." Action="Keys">
+									<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+										<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="^a[Del]wrongtestuser" />
+									</Parameters>
+									<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.Device.ProcessFroniusSolarweb.Layout_NO_ID.Layout_action_bar_root.LayoutContent.ViewLogin.View_NO_ID.ViewContainerLogin.ScrollViewLogin.ViewInput.LayoutEmail.EditTextEmail" />
+								</Data>
+							</Operation>
+							<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+								<Data Description="Simulates one or several keypresses." Action="Keys">
+									<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+										<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="pwd123?" />
+									</Parameters>
+									<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.Device.ProcessFroniusSolarweb.Layout_NO_ID.Layout_action_bar_root.LayoutContent.ViewLogin.View_NO_ID.ViewContainerLogin.ScrollViewLogin.ViewInput.LayoutPassword.EditTextPassword" />
+								</Data>
+							</Operation>
+							<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+								<Data Description="Moves the pointer location to a control and touches it until the specified state is reached." Action="CheckButton">
+									<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+										<Parameter Name="State" DefVarType="12" VarType="11" ValueType="7" ValueValue="True" />
+									</Parameters>
+									<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.Device.ProcessFroniusSolarweb.Layout_NO_ID.Layout_action_bar_root.LayoutContent.ViewLogin.View_NO_ID.ViewContainerLogin.ScrollViewLogin.ViewInput.ViewContainertermsandconditions.SwitchAgree" />
+								</Data>
+							</Operation>
+							<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
+								<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
+									<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+										<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.Device.ProcessFroniusSolarweb.Layout_NO_ID.Layout_action_bar_root.LayoutContent.ViewLogin.View_NO_ID.ViewContainerLogin.ScrollViewLogin.ViewInput.ButtonLogin" />
+										<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="Enabled" />
+										<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+										<Parameter Name="Value" DefVarType="12" VarType="11" ValueType="7" ValueValue="False" />
+										<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
+									</Parameters>
+								</Data>
+							</Operation>
+						</Children>
+					</Operation>
+					<Operation Type="{D993D251-65A9-4BED-A2EC-C2AC83739BAD}">
+						<Data GroupName="wrongSet3" />
+						<Children>
+							<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+								<Data Description="Simulates one or several keypresses." Action="Keys">
+									<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+										<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="^a[Del]wrongtest@test.com" />
+									</Parameters>
+									<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.Device.ProcessFroniusSolarweb.Layout_NO_ID.Layout_action_bar_root.LayoutContent.ViewLogin.View_NO_ID.ViewContainerLogin.ScrollViewLogin.ViewInput.LayoutEmail.EditTextEmail" />
+								</Data>
+							</Operation>
+							<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+								<Data Description="Simulates one or several keypresses." Action="Keys">
+									<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+										<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="^a[Del]Wrongpwd" />
+									</Parameters>
+									<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.Device.ProcessFroniusSolarweb.Layout_NO_ID.Layout_action_bar_root.LayoutContent.ViewLogin.View_NO_ID.ViewContainerLogin.ScrollViewLogin.ViewInput.LayoutPassword.EditTextPassword" />
+								</Data>
+							</Operation>
+							<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+								<Data Description="Moves the pointer location to a control and touches it until the specified state is reached." Action="CheckButton">
+									<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+										<Parameter Name="State" DefVarType="12" VarType="11" ValueType="7" ValueValue="True" />
+									</Parameters>
+									<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.Device.ProcessFroniusSolarweb.Layout_NO_ID.Layout_action_bar_root.LayoutContent.ViewLogin.View_NO_ID.ViewContainerLogin.ScrollViewLogin.ViewInput.ViewContainertermsandconditions.SwitchAgree" />
+								</Data>
+							</Operation>
+							<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
+								<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
+									<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+										<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.Device.ProcessFroniusSolarweb.Layout_NO_ID.Layout_action_bar_root.LayoutContent.ViewLogin.View_NO_ID.ViewContainerLogin.ScrollViewLogin.ViewInput.ButtonLogin" />
+										<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="Enabled" />
+										<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+										<Parameter Name="Value" DefVarType="12" VarType="11" ValueType="7" ValueValue="True" />
+										<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
+									</Parameters>
+								</Data>
+							</Operation>
+							<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+								<Data Description="Simulates a click on the View control at the specified position using control-relative coordinates. If no coordinates are specified, a click is simulated in the center of the control." Action="Click">
+									<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+										<Parameter Name="X" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+										<Parameter Name="Y" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+									</Parameters>
+									<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.Device.ProcessFroniusSolarweb.Layout_NO_ID.Layout_action_bar_root.LayoutContent.ViewLogin.View_NO_ID.ViewContainerLogin.ScrollViewLogin.ViewInput.ButtonLogin" />
+								</Data>
+							</Operation>
+							<Operation Type="{6A1B4CEE-4FB8-46E2-BFBD-403C84342301}">
+								<Data Description="Delays the test execution for the specified time period.">
+									<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+										<Parameter Name="ms" DefVarType="3" VarType="3" ValueType="1" ValueValue="2000" />
+										<Parameter Name="Str" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="" />
+									</Parameters>
+								</Data>
+							</Operation>
+						</Children>
+					</Operation>
+				</Children>
+			</Operation>
+			<Operation Type="{D993D251-65A9-4BED-A2EC-C2AC83739BAD}">
+				<Data GroupName="ForgotPwd" />
+				<Children>
+					<Operation Type="{EEDC9229-5F2A-4450-980E-7EB218C67090}">
+						<Data LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+							<Root Type="1" Operator="0">
+								<Left DefVarType="0" ParamType="{5EF65F78-D6E6-4C84-90CA-F464F32D7A1D}" Expression="Aliases.Device.ProcessFroniusSolarweb.Layout_NO_ID.Layout_action_bar_root.LayoutContent.ViewLogin.View_NO_ID.ViewContainerLogin.ScrollViewLogin.ViewInput.ButtonForgotPassword.VisibleOnScreen" />
+								<Right DefVarType="0" VarType="11" ValueType="7" ValueValue="False" />
+							</Root>
+						</Data>
+						<Children>
+							<Operation Type="{16DC8186-4DEC-41AF-80A0-F8C655838299}">
+								<Data Description="Runs a test from the project." TestName="goBack" FullName="Gesture\AndroidGestures1 - goBack" Path="AndroidGestureCollection|AndroidGestures1" />
+							</Operation>
+						</Children>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Simulates a touch on the View control at the specified position in control-relative coordinates. If no coordinates are specified, a touch is simulated in the center of the control." Action="Touch">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="X" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+								<Parameter Name="Y" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+							</Parameters>
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.Device.ProcessFroniusSolarweb.Layout_NO_ID.Layout_action_bar_root.LayoutContent.ViewLogin.View_NO_ID.ViewContainerLogin.ScrollViewLogin.ViewInput.ButtonForgotPassword" />
+						</Data>
+					</Operation>
+					<Operation Type="{6A1B4CEE-4FB8-46E2-BFBD-403C84342301}">
+						<Data Description="Delays the test execution for the specified time period.">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="ms" DefVarType="3" VarType="3" ValueType="1" ValueValue="6000" />
+								<Parameter Name="Str" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="" />
+							</Parameters>
+						</Data>
+					</Operation>
+					<Operation Type="{16DC8186-4DEC-41AF-80A0-F8C655838299}">
+						<Data Description="Runs a test from the project." TestName="goBack" FullName="Gesture\AndroidGestures1 - goBack" Path="AndroidGestureCollection|AndroidGestures1" />
+					</Operation>
+					<Operation Type="{6A1B4CEE-4FB8-46E2-BFBD-403C84342301}">
+						<Data Description="Delays the test execution for the specified time period.">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="ms" DefVarType="3" VarType="3" ValueType="1" ValueValue="3000" />
+								<Parameter Name="Str" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="" />
+							</Parameters>
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Simulates a click on the View control at the specified position using control-relative coordinates. If no coordinates are specified, a click is simulated in the center of the control." Action="Click">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="X" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+								<Parameter Name="Y" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+							</Parameters>
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.Device.ProcessFroniusSolarweb.Layout_NO_ID.Layout_action_bar_root.LayoutContent.ViewLogin.View_NO_ID.ButtonClose" />
+						</Data>
+					</Operation>
+				</Children>
+			</Operation>
+			<Operation Type="{D993D251-65A9-4BED-A2EC-C2AC83739BAD}">
+				<Data GroupName="Login" />
+				<Children>
+					<Operation Type="{BFB3C418-1303-46B3-9B24-3624AB5EB529}">
+						<Data Description="Posts an information message to the test log." MessageType="0">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="MessageText" DefVarType="12" VarType="8" ValueType="6" ValueValue="Correct credentials and accept Terms and conditions" />
+								<Parameter Name="Details" DefVarType="12" VarType="8" ValueType="6" ValueValue="" />
+								<Parameter Name="Priority" DefVarType="12" DefValueType="1" DefValueValue="300" VarType="3" ValueType="1" ValueValue="300">
+									<Values IsEnum="True">
+										<Value Type="1" Value="100" Text="pmLowest" />
+										<Value Type="1" Value="200" Text="pmLower" />
+										<Value Type="1" Value="300" Text="pmNormal" />
+										<Value Type="1" Value="400" Text="pmHigher" />
+										<Value Type="1" Value="500" Text="pmHighest" />
+									</Values>
+								</Parameter>
+								<Parameter Name="Attrib" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+								<Parameter Name="Picture" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+								<Parameter Name="FolderId" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+							</Parameters>
+						</Data>
+					</Operation>
+					<Operation Type="{16DC8186-4DEC-41AF-80A0-F8C655838299}">
+						<Data Description="Runs a test from the project." TestName="Login" FullName="KeywordTests - Login" Path="KeywordTests|Login">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="Username" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="01app.solarweb@test-login1.fronius.com" />
+								<Parameter Name="Pwd" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="Fronius!20" />
+							</Parameters>
+						</Data>
+					</Operation>
+					<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
+						<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.Device.ProcessFroniusSolarweb.Layout_NO_ID.Layout_action_bar_root.LayoutContent.ViewMain.ViewWidgetlayout.LayoutNavigation.ViewNAvigationMenu.LayoutCurrent" />
+								<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="Exists" />
+								<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+								<Parameter Name="Value" DefVarType="12" VarType="11" ValueType="7" ValueValue="True" />
+								<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
+							</Parameters>
+						</Data>
+					</Operation>
+					<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
+						<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.Device.ProcessFroniusSolarweb.Layout_NO_ID.Layout_action_bar_root.LayoutContent.ViewMain.ViewWidgetlayout.LayoutNavigation.ViewNAvigationMenu.LayoutCurrent" />
+								<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="VisibleOnScreen" />
+								<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+								<Parameter Name="Value" DefVarType="12" VarType="11" ValueType="7" ValueValue="True" />
+								<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
+							</Parameters>
+						</Data>
+					</Operation>
+					<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
+						<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.Device.ProcessFroniusSolarweb.Layout_NO_ID.Layout_action_bar_root.LayoutContent.ViewMain.ViewWidgetlayout.ToolbarTop" />
+								<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="Exists" />
+								<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+								<Parameter Name="Value" DefVarType="12" VarType="11" ValueType="7" ValueValue="True" />
+								<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
+							</Parameters>
+						</Data>
+					</Operation>
+					<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
+						<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.Device.ProcessFroniusSolarweb.Layout_NO_ID.Layout_action_bar_root.LayoutContent.ViewMain.ViewWidgetlayout.ToolbarTop" />
+								<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="VisibleOnScreen" />
+								<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+								<Parameter Name="Value" DefVarType="12" VarType="11" ValueType="7" ValueValue="True" />
+								<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
+							</Parameters>
+						</Data>
+					</Operation>
+				</Children>
+			</Operation>
+			<Operation Type="{16DC8186-4DEC-41AF-80A0-F8C655838299}">
+				<Data Description="Runs a test from the project." TestName="Logout" FullName="KeywordTests - Logout" Path="KeywordTests|Logout" />
+			</Operation>
+		</Children>
+	</TestData>
+	<Parameters Key="{2DC237AD-E8F1-4C4F-831F-A6FCF82ADE56}" />
+</Root>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{302E54A8-7D5B-4593-9563-357C2734256B}" version="1400" key="{C9988658-4A56-47A4-81E4-5E84284E400F}" typeId="{302E54A8-7D5B-4593-9563-357C2734256B}">
+	<config nodeName="solarweb" />
+	<testData />
+	<data>
+		<item caption="ScrollView_UnnamedCtrl" moniker="{2EBA3E38-B4F2-4E2D-AC3E-B3DF299FBAF8}" isComposite="True" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\ScrollView_UnnamedCtrl.png" initialHash="3B559069" selectionLeft="0" selectionTop="416" selectionWidth="1080" selectionHeight="1660" initialLeft="0" initialTop="416" initialWidth="1080" initialHeight="1660" pixelTolerance="0" colorTolerance="0" deviceName="SM-A530F" />
+		</item>
+		<item caption="ScrollView_UnnamedCtrl1" moniker="{AD60669B-DDE0-450E-A524-1D8CCC04B794}" isComposite="True" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\ScrollView_UnnamedCtrl1.png" initialHash="6EF4098A" selectionLeft="0" selectionTop="416" selectionWidth="1080" selectionHeight="1660" initialLeft="0" initialTop="416" initialWidth="1080" initialHeight="1660" pixelTolerance="0" colorTolerance="0" deviceName="SM-A530F" />
+		</item>
+		<item caption="ScrollView_UnnamedCtrl2" moniker="{06E95B18-F9E3-402E-859B-4EE4BA763019}" isComposite="True" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\ScrollView_UnnamedCtrl2.png" initialHash="99DA501A" selectionLeft="0" selectionTop="416" selectionWidth="1080" selectionHeight="1660" initialLeft="0" initialTop="416" initialWidth="1080" initialHeight="1660" pixelTolerance="0" colorTolerance="0" deviceName="SM-A530F" />
+		</item>
+		<item caption="ScrollView_UnnamedCtrl3" moniker="{222AF585-4CAF-4061-A58B-EAD3B9E71E1D}" isComposite="True" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\ScrollView_UnnamedCtrl3.png" initialHash="B6CD85EE" selectionLeft="0" selectionTop="416" selectionWidth="1080" selectionHeight="1660" initialLeft="0" initialTop="416" initialWidth="1080" initialHeight="1660" pixelTolerance="0" colorTolerance="0" deviceName="SM-A530F" />
+		</item>
+		<item caption="Item1" moniker="{E35D0754-E0B1-4411-A1BC-CF3818F86402}" isComposite="True" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\Item1.png" initialHash="583573F1" selectionLeft="0" selectionTop="89" selectionWidth="1078" selectionHeight="2133" initialLeft="0" initialTop="89" initialWidth="1078" initialHeight="2133" pixelTolerance="0" colorTolerance="0" deviceName="SM-A530F" />
+		</item>
+	</data>
+</Root>

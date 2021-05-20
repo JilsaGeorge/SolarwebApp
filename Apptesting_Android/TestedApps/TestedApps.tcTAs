@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{90D101C8-80C7-48D4-9055-2E451B9BCD75}" version="1400" key="{68C67302-BCC2-49DD-A188-46247C6B9FC6}" typeId="{90D101C8-80C7-48D4-9055-2E451B9BCD75}">
+	<config nodeName="TestedApps" />
+	<testData />
+	<data />
+	<children>
+		<child key="{547934D5-EB5D-4A1B-809E-16746AC689FA}">
+			<config nodeName="SolarwebApplication_1_1_2_93_develop_16524ba_envStg_release" autorunOnRecording="False" enabled="True" count="1" useFeaturedRuntimeObject="True" userChangeName="False">
+				<runModeParams activeRunMode="Android">
+					<param name="Android" parameters="" workFolder="" apkFileName="C:\Users\Ethakkattu.Jilsa\Apptesting\apkFiles\SolarwebApplication-1.1.2-93-develop-16524ba-envStg-release.apk" deploy="True" keepDataAndCache="False" grantPermissions="False" signAPKWithCustom="False" keystorePath="" alias="" keystorePassword="" keyPassword="" />
+				</runModeParams>
+			</config>
+			<testData />
+			<data />
+		</child>
+	</children>
+</Root>
